@@ -1,0 +1,1827 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<prod_sku><![CDATA[1001]]></prod_sku>
+		<prod_live_url><![CDATA[[prod_name}-[prod_sku]]]></prod_live_url>
+		<prod_name><![CDATA[Square Framed Black Diamond Wedding Band]]></prod_name>
+		<prod_long_desc><![CDATA[A beautiful Dora men's square framed black diamond wedding band with a center frame filled with black diamonds for a classic look.]]></prod_long_desc>
+		<prod_type><![CDATA[Wedding Bands]]></prod_type>
+		<prod_subcategory><![CDATA[Black Diamond Men,White Gold Men,Men Wedding Band]]></prod_subcategory>
+		<prodmeta_section><![CDATA[Mens]]></prodmeta_section>
+		<prodmeta_ship_days><![CDATA[3]]></prodmeta_ship_days>
+		<prodmeta_metal_weight><![CDATA[]]></prodmeta_metal_weight>
+		<prodmeta_side_diamonds_count><![CDATA[]]></prodmeta_side_diamonds_count>
+		<prodmeta_side_diamonds_ctw><![CDATA[]]></prodmeta_side_diamonds_ctw>
+		<prodmeta_side_diamonds_color_clarity><![CDATA[]]></prodmeta_side_diamonds_color_clarity>
+		<prodmeta_side_diamonds1_count><![CDATA[13]]></prodmeta_side_diamonds1_count>
+		<attr_14k_regular><![CDATA[2215]]></attr_14k_regular>
+		<attr_14k_metal_available><![CDATA[White Gold ]]></attr_14k_metal_available>
+		<attr_18k_regular><![CDATA[3150]]></attr_18k_regular>
+		<attr_18k_metal_available><![CDATA[White Gold ]]></attr_18k_metal_available>
+		<attr_platinum_regular><![CDATA[]]></attr_platinum_regular>
+		<attr_whitegold_platinum_round_default_img><![CDATA[wedding-bands/127b01/shapes/round/127b01-whitegold_platinum_round_default.jpg]]></attr_whitegold_platinum_round_default_img>
+		<attr_whitegold_platinum_round_img><![CDATA[]]></attr_whitegold_platinum_round_img>
+		<attr_rosegold_round_default_img><![CDATA[]]></attr_rosegold_round_default_img>
+		<attr_rosegold_round_img><![CDATA[]]></attr_rosegold_round_img>
+		<attr_yellowgold_round_default_img><![CDATA[]]></attr_yellowgold_round_default_img>
+		<attr_yellowgold_round_img><![CDATA[]]></attr_yellowgold_round_img>
+		<attr_whitegold_yellow_round_default_img><![CDATA[]]></attr_whitegold_yellow_round_default_img>
+		<attr_whitegold_yellow_round_img><![CDATA[]]></attr_whitegold_yellow_round_img>
+		<attr_whitegold_rose_round_default_img><![CDATA[]]></attr_whitegold_rose_round_default_img>
+		<attr_whitegold_rose_round_img><![CDATA[]]></attr_whitegold_rose_round_img>
+		<attr_tricolor_round_default_img><![CDATA[]]></attr_tricolor_round_default_img>
+		<attr_tricolor_round_img><![CDATA[]]></attr_tricolor_round_img>
+	</node>
+	<node>
+		<prod_sku><![CDATA[1002]]></prod_sku>
+		<prod_live_url><![CDATA[[prod_name}-[prod_sku]]]></prod_live_url>
+		<prod_name><![CDATA[Engraved Diamond Wedding Band]]></prod_name>
+		<prod_long_desc><![CDATA[This Dora men's engraved diamond wedding band features an ornate design with an intricate engraving and round diamond accents.]]></prod_long_desc>
+		<prod_type><![CDATA[Wedding Bands]]></prod_type>
+		<prod_subcategory><![CDATA[Diamond Men,White Gold Men,Men Wedding Band]]></prod_subcategory>
+		<prodmeta_section><![CDATA[Mens]]></prodmeta_section>
+		<prodmeta_ship_days><![CDATA[3]]></prodmeta_ship_days>
+		<prodmeta_metal_weight><![CDATA[]]></prodmeta_metal_weight>
+		<prodmeta_side_diamonds_count><![CDATA[24]]></prodmeta_side_diamonds_count>
+		<prodmeta_side_diamonds_ctw><![CDATA[0.24ct.]]></prodmeta_side_diamonds_ctw>
+		<prodmeta_side_diamonds_color_clarity><![CDATA[F/G - VS/SI1]]></prodmeta_side_diamonds_color_clarity>
+		<prodmeta_side_diamonds1_count><![CDATA[]]></prodmeta_side_diamonds1_count>
+		<attr_14k_regular><![CDATA[2765]]></attr_14k_regular>
+		<attr_14k_metal_available><![CDATA[White Gold ]]></attr_14k_metal_available>
+		<attr_18k_regular><![CDATA[3515]]></attr_18k_regular>
+		<attr_18k_metal_available><![CDATA[White Gold ]]></attr_18k_metal_available>
+		<attr_platinum_regular><![CDATA[]]></attr_platinum_regular>
+		<attr_whitegold_platinum_round_default_img><![CDATA[wedding-bands/138a03/shapes/round/138a03-whitegold_platinum_round_default.jpg]]></attr_whitegold_platinum_round_default_img>
+		<attr_whitegold_platinum_round_img><![CDATA[]]></attr_whitegold_platinum_round_img>
+		<attr_rosegold_round_default_img><![CDATA[]]></attr_rosegold_round_default_img>
+		<attr_rosegold_round_img><![CDATA[]]></attr_rosegold_round_img>
+		<attr_yellowgold_round_default_img><![CDATA[]]></attr_yellowgold_round_default_img>
+		<attr_yellowgold_round_img><![CDATA[]]></attr_yellowgold_round_img>
+		<attr_whitegold_yellow_round_default_img><![CDATA[]]></attr_whitegold_yellow_round_default_img>
+		<attr_whitegold_yellow_round_img><![CDATA[]]></attr_whitegold_yellow_round_img>
+		<attr_whitegold_rose_round_default_img><![CDATA[]]></attr_whitegold_rose_round_default_img>
+		<attr_whitegold_rose_round_img><![CDATA[]]></attr_whitegold_rose_round_img>
+		<attr_tricolor_round_default_img><![CDATA[]]></attr_tricolor_round_default_img>
+		<attr_tricolor_round_img><![CDATA[]]></attr_tricolor_round_img>
+	</node>
+	<node>
+		<prod_sku><![CDATA[1003]]></prod_sku>
+		<prod_live_url><![CDATA[[prod_name}-[prod_sku]]]></prod_live_url>
+		<prod_name><![CDATA[Black Diamond Trim Wedding Band]]></prod_name>
+		<prod_long_desc><![CDATA[A Dora men's black diamond trim wedding band with a brushed white gold finish and a black diamond trim in the center.]]></prod_long_desc>
+		<prod_type><![CDATA[Wedding Bands]]></prod_type>
+		<prod_subcategory><![CDATA[Black Diamond Men,White Gold Men,Platinum Men,Men Wedding Band]]></prod_subcategory>
+		<prodmeta_section><![CDATA[Mens]]></prodmeta_section>
+		<prodmeta_ship_days><![CDATA[4]]></prodmeta_ship_days>
+		<prodmeta_metal_weight><![CDATA[]]></prodmeta_metal_weight>
+		<prodmeta_side_diamonds_count><![CDATA[]]></prodmeta_side_diamonds_count>
+		<prodmeta_side_diamonds_ctw><![CDATA[]]></prodmeta_side_diamonds_ctw>
+		<prodmeta_side_diamonds_color_clarity><![CDATA[]]></prodmeta_side_diamonds_color_clarity>
+		<prodmeta_side_diamonds1_count><![CDATA[65]]></prodmeta_side_diamonds1_count>
+		<attr_14k_regular><![CDATA[1500]]></attr_14k_regular>
+		<attr_14k_metal_available><![CDATA[White Gold ]]></attr_14k_metal_available>
+		<attr_18k_regular><![CDATA[1990]]></attr_18k_regular>
+		<attr_18k_metal_available><![CDATA[White Gold ]]></attr_18k_metal_available>
+		<attr_platinum_regular><![CDATA[2450]]></attr_platinum_regular>
+		<attr_whitegold_platinum_round_default_img><![CDATA[wedding-bands/178b01/shapes/round/178b01-whitegold_platinum_round_default.jpg]]></attr_whitegold_platinum_round_default_img>
+		<attr_whitegold_platinum_round_img><![CDATA[]]></attr_whitegold_platinum_round_img>
+		<attr_rosegold_round_default_img><![CDATA[]]></attr_rosegold_round_default_img>
+		<attr_rosegold_round_img><![CDATA[]]></attr_rosegold_round_img>
+		<attr_yellowgold_round_default_img><![CDATA[]]></attr_yellowgold_round_default_img>
+		<attr_yellowgold_round_img><![CDATA[]]></attr_yellowgold_round_img>
+		<attr_whitegold_yellow_round_default_img><![CDATA[]]></attr_whitegold_yellow_round_default_img>
+		<attr_whitegold_yellow_round_img><![CDATA[]]></attr_whitegold_yellow_round_img>
+		<attr_whitegold_rose_round_default_img><![CDATA[]]></attr_whitegold_rose_round_default_img>
+		<attr_whitegold_rose_round_img><![CDATA[]]></attr_whitegold_rose_round_img>
+		<attr_tricolor_round_default_img><![CDATA[]]></attr_tricolor_round_default_img>
+		<attr_tricolor_round_img><![CDATA[]]></attr_tricolor_round_img>
+	</node>
+	<node>
+		<prod_sku><![CDATA[1004]]></prod_sku>
+		<prod_live_url><![CDATA[[prod_name}-[prod_sku]]]></prod_live_url>
+		<prod_name><![CDATA[Diamond Wedding Band 1841G]]></prod_name>
+		<prod_long_desc><![CDATA[Men's White Gold Diamond Wedding Band 1841G]]></prod_long_desc>
+		<prod_type><![CDATA[Wedding Bands]]></prod_type>
+		<prod_subcategory><![CDATA[Diamond Men,White Gold Men,Yellow Gold Men,Rose Gold Men,Platinum Men,Men Wedding Band]]></prod_subcategory>
+		<prodmeta_section><![CDATA[Mens]]></prodmeta_section>
+		<prodmeta_ship_days><![CDATA[5]]></prodmeta_ship_days>
+		<prodmeta_metal_weight><![CDATA[9.3 Grams]]></prodmeta_metal_weight>
+		<prodmeta_side_diamonds_count><![CDATA[5]]></prodmeta_side_diamonds_count>
+		<prodmeta_side_diamonds_ctw><![CDATA[0.35ct.]]></prodmeta_side_diamonds_ctw>
+		<prodmeta_side_diamonds_color_clarity><![CDATA[F/G - VS/SI1]]></prodmeta_side_diamonds_color_clarity>
+		<prodmeta_side_diamonds1_count><![CDATA[]]></prodmeta_side_diamonds1_count>
+		<attr_14k_regular><![CDATA[2480]]></attr_14k_regular>
+		<attr_14k_metal_available><![CDATA[White Gold, Rose Gold, Yellow Gold]]></attr_14k_metal_available>
+		<attr_18k_regular><![CDATA[3265]]></attr_18k_regular>
+		<attr_18k_metal_available><![CDATA[White Gold, Rose Gold, Yellow Gold]]></attr_18k_metal_available>
+		<attr_platinum_regular><![CDATA[3975]]></attr_platinum_regular>
+		<attr_whitegold_platinum_round_default_img><![CDATA[wedding-bands/1841/shapes/round/1841-whitegold_platinum_round_default.jpg]]></attr_whitegold_platinum_round_default_img>
+		<attr_whitegold_platinum_round_img><![CDATA[]]></attr_whitegold_platinum_round_img>
+		<attr_rosegold_round_default_img><![CDATA[wedding-bands/1841/shapes/round/1841-rosegold_round_default.jpg]]></attr_rosegold_round_default_img>
+		<attr_rosegold_round_img><![CDATA[]]></attr_rosegold_round_img>
+		<attr_yellowgold_round_default_img><![CDATA[wedding-bands/1841/shapes/round/1841-yellowgold_round_default.jpg]]></attr_yellowgold_round_default_img>
+		<attr_yellowgold_round_img><![CDATA[]]></attr_yellowgold_round_img>
+		<attr_whitegold_yellow_round_default_img><![CDATA[]]></attr_whitegold_yellow_round_default_img>
+		<attr_whitegold_yellow_round_img><![CDATA[]]></attr_whitegold_yellow_round_img>
+		<attr_whitegold_rose_round_default_img><![CDATA[]]></attr_whitegold_rose_round_default_img>
+		<attr_whitegold_rose_round_img><![CDATA[]]></attr_whitegold_rose_round_img>
+		<attr_tricolor_round_default_img><![CDATA[]]></attr_tricolor_round_default_img>
+		<attr_tricolor_round_img><![CDATA[]]></attr_tricolor_round_img>
+	</node>
+	<node>
+		<prod_sku><![CDATA[1005]]></prod_sku>
+		<prod_live_url><![CDATA[[prod_name}-[prod_sku]]]></prod_live_url>
+		<prod_name><![CDATA[3 Row Black Diamond Wedding Band]]></prod_name>
+		<prod_long_desc><![CDATA[A stunning Dora men's 3 row black diamond wedding band with rows of shared prong set black diamonds adorning the center for a stylish look that will turn heads.]]></prod_long_desc>
+		<prod_type><![CDATA[Wedding Bands]]></prod_type>
+		<prod_subcategory><![CDATA[Black Diamond Men,White Gold Men,Men Wedding Band]]></prod_subcategory>
+		<prodmeta_section><![CDATA[Mens]]></prodmeta_section>
+		<prodmeta_ship_days><![CDATA[6]]></prodmeta_ship_days>
+		<prodmeta_metal_weight><![CDATA[]]></prodmeta_metal_weight>
+		<prodmeta_side_diamonds_count><![CDATA[]]></prodmeta_side_diamonds_count>
+		<prodmeta_side_diamonds_ctw><![CDATA[]]></prodmeta_side_diamonds_ctw>
+		<prodmeta_side_diamonds_color_clarity><![CDATA[]]></prodmeta_side_diamonds_color_clarity>
+		<prodmeta_side_diamonds1_count><![CDATA[108]]></prodmeta_side_diamonds1_count>
+		<attr_14k_regular><![CDATA[3125]]></attr_14k_regular>
+		<attr_14k_metal_available><![CDATA[White Gold ]]></attr_14k_metal_available>
+		<attr_18k_regular><![CDATA[3890]]></attr_18k_regular>
+		<attr_18k_metal_available><![CDATA[White Gold ]]></attr_18k_metal_available>
+		<attr_platinum_regular><![CDATA[]]></attr_platinum_regular>
+		<attr_whitegold_platinum_round_default_img><![CDATA[wedding-bands/210b01/shapes/round/210b01-whitegold_platinum_round_default.jpg]]></attr_whitegold_platinum_round_default_img>
+		<attr_whitegold_platinum_round_img><![CDATA[]]></attr_whitegold_platinum_round_img>
+		<attr_rosegold_round_default_img><![CDATA[]]></attr_rosegold_round_default_img>
+		<attr_rosegold_round_img><![CDATA[]]></attr_rosegold_round_img>
+		<attr_yellowgold_round_default_img><![CDATA[]]></attr_yellowgold_round_default_img>
+		<attr_yellowgold_round_img><![CDATA[]]></attr_yellowgold_round_img>
+		<attr_whitegold_yellow_round_default_img><![CDATA[]]></attr_whitegold_yellow_round_default_img>
+		<attr_whitegold_yellow_round_img><![CDATA[]]></attr_whitegold_yellow_round_img>
+		<attr_whitegold_rose_round_default_img><![CDATA[]]></attr_whitegold_rose_round_default_img>
+		<attr_whitegold_rose_round_img><![CDATA[]]></attr_whitegold_rose_round_img>
+		<attr_tricolor_round_default_img><![CDATA[]]></attr_tricolor_round_default_img>
+		<attr_tricolor_round_img><![CDATA[]]></attr_tricolor_round_img>
+	</node>
+	<node>
+		<prod_sku><![CDATA[1006]]></prod_sku>
+		<prod_live_url><![CDATA[[prod_name}-[prod_sku]]]></prod_live_url>
+		<prod_name><![CDATA[Men's Simple Domed Wedding Band]]></prod_name>
+		<prod_long_desc><![CDATA[This Dora men's simple domed wedding band features chic polished tantalum that will never be out of style.]]></prod_long_desc>
+		<prod_type><![CDATA[Wedding Bands]]></prod_type>
+		<prod_subcategory><![CDATA[Tantalum Men,White Gold Men,Men Wedding Band]]></prod_subcategory>
+		<prodmeta_section><![CDATA[Mens]]></prodmeta_section>
+		<prodmeta_ship_days><![CDATA[7]]></prodmeta_ship_days>
+		<prodmeta_metal_weight><![CDATA[]]></prodmeta_metal_weight>
+		<prodmeta_side_diamonds_count><![CDATA[]]></prodmeta_side_diamonds_count>
+		<prodmeta_side_diamonds_ctw><![CDATA[]]></prodmeta_side_diamonds_ctw>
+		<prodmeta_side_diamonds_color_clarity><![CDATA[]]></prodmeta_side_diamonds_color_clarity>
+		<prodmeta_side_diamonds1_count><![CDATA[]]></prodmeta_side_diamonds1_count>
+		<attr_14k_regular><![CDATA[240]]></attr_14k_regular>
+		<attr_14k_metal_available><![CDATA[White Gold]]></attr_14k_metal_available>
+		<attr_18k_regular><![CDATA[]]></attr_18k_regular>
+		<attr_18k_metal_available><![CDATA[]]></attr_18k_metal_available>
+		<attr_platinum_regular><![CDATA[]]></attr_platinum_regular>
+		<attr_whitegold_platinum_round_default_img><![CDATA[wedding-bands/292a25/shapes/round/292a25-whitegold_platinum_round_default.jpg]]></attr_whitegold_platinum_round_default_img>
+		<attr_whitegold_platinum_round_img><![CDATA[]]></attr_whitegold_platinum_round_img>
+		<attr_rosegold_round_default_img><![CDATA[]]></attr_rosegold_round_default_img>
+		<attr_rosegold_round_img><![CDATA[]]></attr_rosegold_round_img>
+		<attr_yellowgold_round_default_img><![CDATA[]]></attr_yellowgold_round_default_img>
+		<attr_yellowgold_round_img><![CDATA[]]></attr_yellowgold_round_img>
+		<attr_whitegold_yellow_round_default_img><![CDATA[]]></attr_whitegold_yellow_round_default_img>
+		<attr_whitegold_yellow_round_img><![CDATA[]]></attr_whitegold_yellow_round_img>
+		<attr_whitegold_rose_round_default_img><![CDATA[]]></attr_whitegold_rose_round_default_img>
+		<attr_whitegold_rose_round_img><![CDATA[]]></attr_whitegold_rose_round_img>
+		<attr_tricolor_round_default_img><![CDATA[]]></attr_tricolor_round_default_img>
+		<attr_tricolor_round_img><![CDATA[]]></attr_tricolor_round_img>
+	</node>
+	<node>
+		<prod_sku><![CDATA[1007]]></prod_sku>
+		<prod_live_url><![CDATA[[prod_name}-[prod_sku]]]></prod_live_url>
+		<prod_name><![CDATA[Diamond Wedding Band 4345W]]></prod_name>
+		<prod_long_desc><![CDATA[White Gold Diamond Wedding Band 4345W]]></prod_long_desc>
+		<prod_type><![CDATA[Wedding Bands]]></prod_type>
+		<prod_subcategory><![CDATA[Diamond Women,White Gold Women,Yellow Gold Women,Rose Gold Women,Platinum Women,Women Wedding Band]]></prod_subcategory>
+		<prodmeta_section><![CDATA[Womens]]></prodmeta_section>
+		<prodmeta_ship_days><![CDATA[8]]></prodmeta_ship_days>
+		<prodmeta_metal_weight><![CDATA[4.6 Grams]]></prodmeta_metal_weight>
+		<prodmeta_side_diamonds_count><![CDATA[12]]></prodmeta_side_diamonds_count>
+		<prodmeta_side_diamonds_ctw><![CDATA[0.42ct.]]></prodmeta_side_diamonds_ctw>
+		<prodmeta_side_diamonds_color_clarity><![CDATA[F/G - VS/SI1]]></prodmeta_side_diamonds_color_clarity>
+		<prodmeta_side_diamonds1_count><![CDATA[]]></prodmeta_side_diamonds1_count>
+		<attr_14k_regular><![CDATA[2145]]></attr_14k_regular>
+		<attr_14k_metal_available><![CDATA[White Gold, Rose Gold, Yellow Gold]]></attr_14k_metal_available>
+		<attr_18k_regular><![CDATA[2535]]></attr_18k_regular>
+		<attr_18k_metal_available><![CDATA[White Gold, Rose Gold, Yellow Gold]]></attr_18k_metal_available>
+		<attr_platinum_regular><![CDATA[2890]]></attr_platinum_regular>
+		<attr_whitegold_platinum_round_default_img><![CDATA[wedding-bands/4345/shapes/round/4345-whitegold_platinum_round_default.jpg]]></attr_whitegold_platinum_round_default_img>
+		<attr_whitegold_platinum_round_img><![CDATA[]]></attr_whitegold_platinum_round_img>
+		<attr_rosegold_round_default_img><![CDATA[wedding-bands/4345/shapes/round/4345-rosegold_round_default.jpg]]></attr_rosegold_round_default_img>
+		<attr_rosegold_round_img><![CDATA[]]></attr_rosegold_round_img>
+		<attr_yellowgold_round_default_img><![CDATA[wedding-bands/4345/shapes/round/4345-yellowgold_round_default.jpg]]></attr_yellowgold_round_default_img>
+		<attr_yellowgold_round_img><![CDATA[]]></attr_yellowgold_round_img>
+		<attr_whitegold_yellow_round_default_img><![CDATA[]]></attr_whitegold_yellow_round_default_img>
+		<attr_whitegold_yellow_round_img><![CDATA[]]></attr_whitegold_yellow_round_img>
+		<attr_whitegold_rose_round_default_img><![CDATA[]]></attr_whitegold_rose_round_default_img>
+		<attr_whitegold_rose_round_img><![CDATA[]]></attr_whitegold_rose_round_img>
+		<attr_tricolor_round_default_img><![CDATA[]]></attr_tricolor_round_default_img>
+		<attr_tricolor_round_img><![CDATA[]]></attr_tricolor_round_img>
+	</node>
+	<node>
+		<prod_sku><![CDATA[1008]]></prod_sku>
+		<prod_live_url><![CDATA[[prod_name}-[prod_sku]]]></prod_live_url>
+		<prod_name><![CDATA[Men's Trim Wedding Band]]></prod_name>
+		<prod_long_desc><![CDATA[A Dora men's trim wedding band with brushed tantalum and a simple center trim.]]></prod_long_desc>
+		<prod_type><![CDATA[Wedding Bands]]></prod_type>
+		<prod_subcategory><![CDATA[Tantalum Men,White Gold Men,Men Wedding Band]]></prod_subcategory>
+		<prodmeta_section><![CDATA[Mens]]></prodmeta_section>
+		<prodmeta_ship_days><![CDATA[9]]></prodmeta_ship_days>
+		<prodmeta_metal_weight><![CDATA[]]></prodmeta_metal_weight>
+		<prodmeta_side_diamonds_count><![CDATA[]]></prodmeta_side_diamonds_count>
+		<prodmeta_side_diamonds_ctw><![CDATA[]]></prodmeta_side_diamonds_ctw>
+		<prodmeta_side_diamonds_color_clarity><![CDATA[]]></prodmeta_side_diamonds_color_clarity>
+		<prodmeta_side_diamonds1_count><![CDATA[]]></prodmeta_side_diamonds1_count>
+		<attr_14k_regular><![CDATA[325]]></attr_14k_regular>
+		<attr_14k_metal_available><![CDATA[White Gold]]></attr_14k_metal_available>
+		<attr_18k_regular><![CDATA[]]></attr_18k_regular>
+		<attr_18k_metal_available><![CDATA[]]></attr_18k_metal_available>
+		<attr_platinum_regular><![CDATA[]]></attr_platinum_regular>
+		<attr_whitegold_platinum_round_default_img><![CDATA[wedding-bands/533a02/shapes/round/533a02-whitegold_platinum_round_default.jpg]]></attr_whitegold_platinum_round_default_img>
+		<attr_whitegold_platinum_round_img><![CDATA[]]></attr_whitegold_platinum_round_img>
+		<attr_rosegold_round_default_img><![CDATA[]]></attr_rosegold_round_default_img>
+		<attr_rosegold_round_img><![CDATA[]]></attr_rosegold_round_img>
+		<attr_yellowgold_round_default_img><![CDATA[]]></attr_yellowgold_round_default_img>
+		<attr_yellowgold_round_img><![CDATA[]]></attr_yellowgold_round_img>
+		<attr_whitegold_yellow_round_default_img><![CDATA[]]></attr_whitegold_yellow_round_default_img>
+		<attr_whitegold_yellow_round_img><![CDATA[]]></attr_whitegold_yellow_round_img>
+		<attr_whitegold_rose_round_default_img><![CDATA[]]></attr_whitegold_rose_round_default_img>
+		<attr_whitegold_rose_round_img><![CDATA[]]></attr_whitegold_rose_round_img>
+		<attr_tricolor_round_default_img><![CDATA[]]></attr_tricolor_round_default_img>
+		<attr_tricolor_round_img><![CDATA[]]></attr_tricolor_round_img>
+	</node>
+	<node>
+		<prod_sku><![CDATA[1009]]></prod_sku>
+		<prod_live_url><![CDATA[[prod_name}-[prod_sku]]]></prod_live_url>
+		<prod_name><![CDATA[Men's Rose Gold Criss Cross Wedding Band]]></prod_name>
+		<prod_long_desc><![CDATA[A unique satin finished Dora men's rose gold criss cross wedding band featuring carbon fiber and a stunning criss cross design that will truly be a conversation starter.]]></prod_long_desc>
+		<prod_type><![CDATA[Wedding Bands]]></prod_type>
+		<prod_subcategory><![CDATA[Carbon Fiber Men,Rose Gold Men,Men Wedding Band]]></prod_subcategory>
+		<prodmeta_section><![CDATA[Mens]]></prodmeta_section>
+		<prodmeta_ship_days><![CDATA[10]]></prodmeta_ship_days>
+		<prodmeta_metal_weight><![CDATA[]]></prodmeta_metal_weight>
+		<prodmeta_side_diamonds_count><![CDATA[]]></prodmeta_side_diamonds_count>
+		<prodmeta_side_diamonds_ctw><![CDATA[]]></prodmeta_side_diamonds_ctw>
+		<prodmeta_side_diamonds_color_clarity><![CDATA[]]></prodmeta_side_diamonds_color_clarity>
+		<prodmeta_side_diamonds1_count><![CDATA[]]></prodmeta_side_diamonds1_count>
+		<attr_14k_regular><![CDATA[1140]]></attr_14k_regular>
+		<attr_14k_metal_available><![CDATA[Rose Gold]]></attr_14k_metal_available>
+		<attr_18k_regular><![CDATA[]]></attr_18k_regular>
+		<attr_18k_metal_available><![CDATA[]]></attr_18k_metal_available>
+		<attr_platinum_regular><![CDATA[]]></attr_platinum_regular>
+		<attr_whitegold_platinum_round_default_img><![CDATA[]]></attr_whitegold_platinum_round_default_img>
+		<attr_whitegold_platinum_round_img><![CDATA[]]></attr_whitegold_platinum_round_img>
+		<attr_rosegold_round_default_img><![CDATA[wedding-bands/556b03/shapes/round/556b03-rosegold_round_default.jpg]]></attr_rosegold_round_default_img>
+		<attr_rosegold_round_img><![CDATA[]]></attr_rosegold_round_img>
+		<attr_yellowgold_round_default_img><![CDATA[]]></attr_yellowgold_round_default_img>
+		<attr_yellowgold_round_img><![CDATA[]]></attr_yellowgold_round_img>
+		<attr_whitegold_yellow_round_default_img><![CDATA[]]></attr_whitegold_yellow_round_default_img>
+		<attr_whitegold_yellow_round_img><![CDATA[]]></attr_whitegold_yellow_round_img>
+		<attr_whitegold_rose_round_default_img><![CDATA[]]></attr_whitegold_rose_round_default_img>
+		<attr_whitegold_rose_round_img><![CDATA[]]></attr_whitegold_rose_round_img>
+		<attr_tricolor_round_default_img><![CDATA[]]></attr_tricolor_round_default_img>
+		<attr_tricolor_round_img><![CDATA[]]></attr_tricolor_round_img>
+	</node>
+	<node>
+		<prod_sku><![CDATA[1010]]></prod_sku>
+		<prod_live_url><![CDATA[[prod_name}-[prod_sku]]]></prod_live_url>
+		<prod_name><![CDATA[Men's Polished Edge Wedding Band]]></prod_name>
+		<prod_long_desc><![CDATA[This stunning Dora men's polished edge wedding band features brushed tantalum with polished edges, a classic you can never go wrong with.]]></prod_long_desc>
+		<prod_type><![CDATA[Wedding Bands]]></prod_type>
+		<prod_subcategory><![CDATA[Tantalum Men,White Gold Men,Men Wedding Band]]></prod_subcategory>
+		<prodmeta_section><![CDATA[Mens]]></prodmeta_section>
+		<prodmeta_ship_days><![CDATA[11]]></prodmeta_ship_days>
+		<prodmeta_metal_weight><![CDATA[]]></prodmeta_metal_weight>
+		<prodmeta_side_diamonds_count><![CDATA[]]></prodmeta_side_diamonds_count>
+		<prodmeta_side_diamonds_ctw><![CDATA[]]></prodmeta_side_diamonds_ctw>
+		<prodmeta_side_diamonds_color_clarity><![CDATA[]]></prodmeta_side_diamonds_color_clarity>
+		<prodmeta_side_diamonds1_count><![CDATA[]]></prodmeta_side_diamonds1_count>
+		<attr_14k_regular><![CDATA[240]]></attr_14k_regular>
+		<attr_14k_metal_available><![CDATA[White Gold]]></attr_14k_metal_available>
+		<attr_18k_regular><![CDATA[]]></attr_18k_regular>
+		<attr_18k_metal_available><![CDATA[]]></attr_18k_metal_available>
+		<attr_platinum_regular><![CDATA[]]></attr_platinum_regular>
+		<attr_whitegold_platinum_round_default_img><![CDATA[wedding-bands/574a12/shapes/round/574a12-whitegold_platinum_round_default.jpg]]></attr_whitegold_platinum_round_default_img>
+		<attr_whitegold_platinum_round_img><![CDATA[]]></attr_whitegold_platinum_round_img>
+		<attr_rosegold_round_default_img><![CDATA[]]></attr_rosegold_round_default_img>
+		<attr_rosegold_round_img><![CDATA[]]></attr_rosegold_round_img>
+		<attr_yellowgold_round_default_img><![CDATA[]]></attr_yellowgold_round_default_img>
+		<attr_yellowgold_round_img><![CDATA[]]></attr_yellowgold_round_img>
+		<attr_whitegold_yellow_round_default_img><![CDATA[]]></attr_whitegold_yellow_round_default_img>
+		<attr_whitegold_yellow_round_img><![CDATA[]]></attr_whitegold_yellow_round_img>
+		<attr_whitegold_rose_round_default_img><![CDATA[]]></attr_whitegold_rose_round_default_img>
+		<attr_whitegold_rose_round_img><![CDATA[]]></attr_whitegold_rose_round_img>
+		<attr_tricolor_round_default_img><![CDATA[]]></attr_tricolor_round_default_img>
+		<attr_tricolor_round_img><![CDATA[]]></attr_tricolor_round_img>
+	</node>
+	<node>
+		<prod_sku><![CDATA[1011]]></prod_sku>
+		<prod_live_url><![CDATA[[prod_name}-[prod_sku]]]></prod_live_url>
+		<prod_name><![CDATA[Offset Black Diamond Wedding Band]]></prod_name>
+		<prod_long_desc><![CDATA[A classic Dora men's offset black diamond wedding band with a brushed white gold finish and a thin offset trim of black diamonds.]]></prod_long_desc>
+		<prod_type><![CDATA[Wedding Bands]]></prod_type>
+		<prod_subcategory><![CDATA[Black Diamond Men,White Gold Men,Men Wedding Band]]></prod_subcategory>
+		<prodmeta_section><![CDATA[Mens]]></prodmeta_section>
+		<prodmeta_ship_days><![CDATA[12]]></prodmeta_ship_days>
+		<prodmeta_metal_weight><![CDATA[]]></prodmeta_metal_weight>
+		<prodmeta_side_diamonds_count><![CDATA[]]></prodmeta_side_diamonds_count>
+		<prodmeta_side_diamonds_ctw><![CDATA[]]></prodmeta_side_diamonds_ctw>
+		<prodmeta_side_diamonds_color_clarity><![CDATA[]]></prodmeta_side_diamonds_color_clarity>
+		<prodmeta_side_diamonds1_count><![CDATA[45]]></prodmeta_side_diamonds1_count>
+		<attr_14k_regular><![CDATA[2325]]></attr_14k_regular>
+		<attr_14k_metal_available><![CDATA[White Gold ]]></attr_14k_metal_available>
+		<attr_18k_regular><![CDATA[3125]]></attr_18k_regular>
+		<attr_18k_metal_available><![CDATA[White Gold ]]></attr_18k_metal_available>
+		<attr_platinum_regular><![CDATA[]]></attr_platinum_regular>
+		<attr_whitegold_platinum_round_default_img><![CDATA[wedding-bands/577a11/shapes/round/577a11-whitegold_platinum_round_default.jpg]]></attr_whitegold_platinum_round_default_img>
+		<attr_whitegold_platinum_round_img><![CDATA[]]></attr_whitegold_platinum_round_img>
+		<attr_rosegold_round_default_img><![CDATA[]]></attr_rosegold_round_default_img>
+		<attr_rosegold_round_img><![CDATA[]]></attr_rosegold_round_img>
+		<attr_yellowgold_round_default_img><![CDATA[]]></attr_yellowgold_round_default_img>
+		<attr_yellowgold_round_img><![CDATA[]]></attr_yellowgold_round_img>
+		<attr_whitegold_yellow_round_default_img><![CDATA[]]></attr_whitegold_yellow_round_default_img>
+		<attr_whitegold_yellow_round_img><![CDATA[]]></attr_whitegold_yellow_round_img>
+		<attr_whitegold_rose_round_default_img><![CDATA[]]></attr_whitegold_rose_round_default_img>
+		<attr_whitegold_rose_round_img><![CDATA[]]></attr_whitegold_rose_round_img>
+		<attr_tricolor_round_default_img><![CDATA[]]></attr_tricolor_round_default_img>
+		<attr_tricolor_round_img><![CDATA[]]></attr_tricolor_round_img>
+	</node>
+	<node>
+		<prod_sku><![CDATA[1012]]></prod_sku>
+		<prod_live_url><![CDATA[[prod_name}-[prod_sku]]]></prod_live_url>
+		<prod_name><![CDATA[Mens Black Wedding Band]]></prod_name>
+		<prod_long_desc><![CDATA[A Dora mens black wedding band with warm yellow gold edges and brushed carbon fiber. A classic that will surely never go out of style.]]></prod_long_desc>
+		<prod_type><![CDATA[Wedding Bands]]></prod_type>
+		<prod_subcategory><![CDATA[Carbon Fiber Men,Yellow Gold Men,Men Wedding Band]]></prod_subcategory>
+		<prodmeta_section><![CDATA[Mens]]></prodmeta_section>
+		<prodmeta_ship_days><![CDATA[13]]></prodmeta_ship_days>
+		<prodmeta_metal_weight><![CDATA[]]></prodmeta_metal_weight>
+		<prodmeta_side_diamonds_count><![CDATA[]]></prodmeta_side_diamonds_count>
+		<prodmeta_side_diamonds_ctw><![CDATA[]]></prodmeta_side_diamonds_ctw>
+		<prodmeta_side_diamonds_color_clarity><![CDATA[]]></prodmeta_side_diamonds_color_clarity>
+		<prodmeta_side_diamonds1_count><![CDATA[]]></prodmeta_side_diamonds1_count>
+		<attr_14k_regular><![CDATA[725]]></attr_14k_regular>
+		<attr_14k_metal_available><![CDATA[Yellow Gold]]></attr_14k_metal_available>
+		<attr_18k_regular><![CDATA[]]></attr_18k_regular>
+		<attr_18k_metal_available><![CDATA[]]></attr_18k_metal_available>
+		<attr_platinum_regular><![CDATA[]]></attr_platinum_regular>
+		<attr_whitegold_platinum_round_default_img><![CDATA[]]></attr_whitegold_platinum_round_default_img>
+		<attr_whitegold_platinum_round_img><![CDATA[]]></attr_whitegold_platinum_round_img>
+		<attr_rosegold_round_default_img><![CDATA[]]></attr_rosegold_round_default_img>
+		<attr_rosegold_round_img><![CDATA[]]></attr_rosegold_round_img>
+		<attr_yellowgold_round_default_img><![CDATA[wedding-bands/586b00/shapes/round/586b00-yellowgold_round_default.jpg]]></attr_yellowgold_round_default_img>
+		<attr_yellowgold_round_img><![CDATA[]]></attr_yellowgold_round_img>
+		<attr_whitegold_yellow_round_default_img><![CDATA[]]></attr_whitegold_yellow_round_default_img>
+		<attr_whitegold_yellow_round_img><![CDATA[]]></attr_whitegold_yellow_round_img>
+		<attr_whitegold_rose_round_default_img><![CDATA[]]></attr_whitegold_rose_round_default_img>
+		<attr_whitegold_rose_round_img><![CDATA[]]></attr_whitegold_rose_round_img>
+		<attr_tricolor_round_default_img><![CDATA[]]></attr_tricolor_round_default_img>
+		<attr_tricolor_round_img><![CDATA[]]></attr_tricolor_round_img>
+	</node>
+	<node>
+		<prod_sku><![CDATA[1013]]></prod_sku>
+		<prod_live_url><![CDATA[[prod_name}-[prod_sku]]]></prod_live_url>
+		<prod_name><![CDATA[Men's Beveled Edge Wedding Band]]></prod_name>
+		<prod_long_desc><![CDATA[This classic yet sleek Dora men's beveled edge wedding band features a white gold band with carbon fiber accents. A perfect ring choice for minimalists.]]></prod_long_desc>
+		<prod_type><![CDATA[Wedding Bands]]></prod_type>
+		<prod_subcategory><![CDATA[Carbon Fiber Men,White Gold Men,Men Wedding Band]]></prod_subcategory>
+		<prodmeta_section><![CDATA[Mens]]></prodmeta_section>
+		<prodmeta_ship_days><![CDATA[14]]></prodmeta_ship_days>
+		<prodmeta_metal_weight><![CDATA[]]></prodmeta_metal_weight>
+		<prodmeta_side_diamonds_count><![CDATA[]]></prodmeta_side_diamonds_count>
+		<prodmeta_side_diamonds_ctw><![CDATA[]]></prodmeta_side_diamonds_ctw>
+		<prodmeta_side_diamonds_color_clarity><![CDATA[]]></prodmeta_side_diamonds_color_clarity>
+		<prodmeta_side_diamonds1_count><![CDATA[]]></prodmeta_side_diamonds1_count>
+		<attr_14k_regular><![CDATA[800]]></attr_14k_regular>
+		<attr_14k_metal_available><![CDATA[White Gold]]></attr_14k_metal_available>
+		<attr_18k_regular><![CDATA[]]></attr_18k_regular>
+		<attr_18k_metal_available><![CDATA[]]></attr_18k_metal_available>
+		<attr_platinum_regular><![CDATA[]]></attr_platinum_regular>
+		<attr_whitegold_platinum_round_default_img><![CDATA[wedding-bands/588b00/shapes/round/588b00-whitegold_platinum_round_default.jpg]]></attr_whitegold_platinum_round_default_img>
+		<attr_whitegold_platinum_round_img><![CDATA[]]></attr_whitegold_platinum_round_img>
+		<attr_rosegold_round_default_img><![CDATA[]]></attr_rosegold_round_default_img>
+		<attr_rosegold_round_img><![CDATA[]]></attr_rosegold_round_img>
+		<attr_yellowgold_round_default_img><![CDATA[]]></attr_yellowgold_round_default_img>
+		<attr_yellowgold_round_img><![CDATA[]]></attr_yellowgold_round_img>
+		<attr_whitegold_yellow_round_default_img><![CDATA[]]></attr_whitegold_yellow_round_default_img>
+		<attr_whitegold_yellow_round_img><![CDATA[]]></attr_whitegold_yellow_round_img>
+		<attr_whitegold_rose_round_default_img><![CDATA[]]></attr_whitegold_rose_round_default_img>
+		<attr_whitegold_rose_round_img><![CDATA[]]></attr_whitegold_rose_round_img>
+		<attr_tricolor_round_default_img><![CDATA[]]></attr_tricolor_round_default_img>
+		<attr_tricolor_round_img><![CDATA[]]></attr_tricolor_round_img>
+	</node>
+	<node>
+		<prod_sku><![CDATA[1014]]></prod_sku>
+		<prod_live_url><![CDATA[[prod_name}-[prod_sku]]]></prod_live_url>
+		<prod_name><![CDATA[Men's Modern Wedding Band]]></prod_name>
+		<prod_long_desc><![CDATA[A modern yet timeless Dora men's wedding band featuring white gold and a carbon fiber trim that you can never go wrong with.]]></prod_long_desc>
+		<prod_type><![CDATA[Wedding Bands]]></prod_type>
+		<prod_subcategory><![CDATA[Carbon Fiber Men,White Gold Men,Men Wedding Band]]></prod_subcategory>
+		<prodmeta_section><![CDATA[Mens]]></prodmeta_section>
+		<prodmeta_ship_days><![CDATA[15]]></prodmeta_ship_days>
+		<prodmeta_metal_weight><![CDATA[]]></prodmeta_metal_weight>
+		<prodmeta_side_diamonds_count><![CDATA[]]></prodmeta_side_diamonds_count>
+		<prodmeta_side_diamonds_ctw><![CDATA[]]></prodmeta_side_diamonds_ctw>
+		<prodmeta_side_diamonds_color_clarity><![CDATA[]]></prodmeta_side_diamonds_color_clarity>
+		<prodmeta_side_diamonds1_count><![CDATA[]]></prodmeta_side_diamonds1_count>
+		<attr_14k_regular><![CDATA[950]]></attr_14k_regular>
+		<attr_14k_metal_available><![CDATA[White Gold]]></attr_14k_metal_available>
+		<attr_18k_regular><![CDATA[]]></attr_18k_regular>
+		<attr_18k_metal_available><![CDATA[]]></attr_18k_metal_available>
+		<attr_platinum_regular><![CDATA[]]></attr_platinum_regular>
+		<attr_whitegold_platinum_round_default_img><![CDATA[wedding-bands/589b00/shapes/round/589b00-whitegold_platinum_round_default.jpg]]></attr_whitegold_platinum_round_default_img>
+		<attr_whitegold_platinum_round_img><![CDATA[]]></attr_whitegold_platinum_round_img>
+		<attr_rosegold_round_default_img><![CDATA[]]></attr_rosegold_round_default_img>
+		<attr_rosegold_round_img><![CDATA[]]></attr_rosegold_round_img>
+		<attr_yellowgold_round_default_img><![CDATA[]]></attr_yellowgold_round_default_img>
+		<attr_yellowgold_round_img><![CDATA[]]></attr_yellowgold_round_img>
+		<attr_whitegold_yellow_round_default_img><![CDATA[]]></attr_whitegold_yellow_round_default_img>
+		<attr_whitegold_yellow_round_img><![CDATA[]]></attr_whitegold_yellow_round_img>
+		<attr_whitegold_rose_round_default_img><![CDATA[]]></attr_whitegold_rose_round_default_img>
+		<attr_whitegold_rose_round_img><![CDATA[]]></attr_whitegold_rose_round_img>
+		<attr_tricolor_round_default_img><![CDATA[]]></attr_tricolor_round_default_img>
+		<attr_tricolor_round_img><![CDATA[]]></attr_tricolor_round_img>
+	</node>
+	<node>
+		<prod_sku><![CDATA[1015]]></prod_sku>
+		<prod_live_url><![CDATA[[prod_name}-[prod_sku]]]></prod_live_url>
+		<prod_name><![CDATA[Rishabh Tyagi]]></prod_name>
+		<prod_long_desc><![CDATA[A stunning comfort fit Dora men's rose gold wedding band with brushed carbon fiber and polished rose gold edges that will surely stay on trend.]]></prod_long_desc>
+		<prod_type><![CDATA[Wedding Bands]]></prod_type>
+		<prod_subcategory><![CDATA[Carbon Fiber Men,Rose Gold Men,Men Wedding Band]]></prod_subcategory>
+		<prodmeta_section><![CDATA[Mens]]></prodmeta_section>
+		<prodmeta_ship_days><![CDATA[16]]></prodmeta_ship_days>
+		<prodmeta_metal_weight><![CDATA[]]></prodmeta_metal_weight>
+		<prodmeta_side_diamonds_count><![CDATA[]]></prodmeta_side_diamonds_count>
+		<prodmeta_side_diamonds_ctw><![CDATA[]]></prodmeta_side_diamonds_ctw>
+		<prodmeta_side_diamonds_color_clarity><![CDATA[]]></prodmeta_side_diamonds_color_clarity>
+		<prodmeta_side_diamonds1_count><![CDATA[]]></prodmeta_side_diamonds1_count>
+		<attr_14k_regular><![CDATA[850]]></attr_14k_regular>
+		<attr_14k_metal_available><![CDATA[Rose Gold]]></attr_14k_metal_available>
+		<attr_18k_regular><![CDATA[]]></attr_18k_regular>
+		<attr_18k_metal_available><![CDATA[]]></attr_18k_metal_available>
+		<attr_platinum_regular><![CDATA[]]></attr_platinum_regular>
+		<attr_whitegold_platinum_round_default_img><![CDATA[]]></attr_whitegold_platinum_round_default_img>
+		<attr_whitegold_platinum_round_img><![CDATA[]]></attr_whitegold_platinum_round_img>
+		<attr_rosegold_round_default_img><![CDATA[wedding-bands/591b00/shapes/round/591b00-rosegold_round_default.jpg]]></attr_rosegold_round_default_img>
+		<attr_rosegold_round_img><![CDATA[]]></attr_rosegold_round_img>
+		<attr_yellowgold_round_default_img><![CDATA[]]></attr_yellowgold_round_default_img>
+		<attr_yellowgold_round_img><![CDATA[]]></attr_yellowgold_round_img>
+		<attr_whitegold_yellow_round_default_img><![CDATA[]]></attr_whitegold_yellow_round_default_img>
+		<attr_whitegold_yellow_round_img><![CDATA[]]></attr_whitegold_yellow_round_img>
+		<attr_whitegold_rose_round_default_img><![CDATA[]]></attr_whitegold_rose_round_default_img>
+		<attr_whitegold_rose_round_img><![CDATA[]]></attr_whitegold_rose_round_img>
+		<attr_tricolor_round_default_img><![CDATA[]]></attr_tricolor_round_default_img>
+		<attr_tricolor_round_img><![CDATA[]]></attr_tricolor_round_img>
+	</node>
+	<node>
+		<prod_sku><![CDATA[1016]]></prod_sku>
+		<prod_live_url><![CDATA[[prod_name}-[prod_sku]]]></prod_live_url>
+		<prod_name><![CDATA[Link Diamond Wedding Band]]></prod_name>
+		<prod_long_desc><![CDATA[This Dora men's link diamond wedding band design is inspired by the elegance of watch links with an added sparkle of round diamonds.]]></prod_long_desc>
+		<prod_type><![CDATA[Wedding Bands]]></prod_type>
+		<prod_subcategory><![CDATA[Diamond Men,White Gold Men,Men Wedding Band]]></prod_subcategory>
+		<prodmeta_section><![CDATA[Mens]]></prodmeta_section>
+		<prodmeta_ship_days><![CDATA[17]]></prodmeta_ship_days>
+		<prodmeta_metal_weight><![CDATA[]]></prodmeta_metal_weight>
+		<prodmeta_side_diamonds_count><![CDATA[6]]></prodmeta_side_diamonds_count>
+		<prodmeta_side_diamonds_ctw><![CDATA[0.6ct.]]></prodmeta_side_diamonds_ctw>
+		<prodmeta_side_diamonds_color_clarity><![CDATA[F/G - VS/SI1]]></prodmeta_side_diamonds_color_clarity>
+		<prodmeta_side_diamonds1_count><![CDATA[]]></prodmeta_side_diamonds1_count>
+		<attr_14k_regular><![CDATA[4190]]></attr_14k_regular>
+		<attr_14k_metal_available><![CDATA[White Gold ]]></attr_14k_metal_available>
+		<attr_18k_regular><![CDATA[5025]]></attr_18k_regular>
+		<attr_18k_metal_available><![CDATA[White Gold ]]></attr_18k_metal_available>
+		<attr_platinum_regular><![CDATA[]]></attr_platinum_regular>
+		<attr_whitegold_platinum_round_default_img><![CDATA[wedding-bands/592a00/shapes/round/592a00-whitegold_platinum_round_default.jpg]]></attr_whitegold_platinum_round_default_img>
+		<attr_whitegold_platinum_round_img><![CDATA[]]></attr_whitegold_platinum_round_img>
+		<attr_rosegold_round_default_img><![CDATA[]]></attr_rosegold_round_default_img>
+		<attr_rosegold_round_img><![CDATA[]]></attr_rosegold_round_img>
+		<attr_yellowgold_round_default_img><![CDATA[]]></attr_yellowgold_round_default_img>
+		<attr_yellowgold_round_img><![CDATA[]]></attr_yellowgold_round_img>
+		<attr_whitegold_yellow_round_default_img><![CDATA[]]></attr_whitegold_yellow_round_default_img>
+		<attr_whitegold_yellow_round_img><![CDATA[]]></attr_whitegold_yellow_round_img>
+		<attr_whitegold_rose_round_default_img><![CDATA[]]></attr_whitegold_rose_round_default_img>
+		<attr_whitegold_rose_round_img><![CDATA[]]></attr_whitegold_rose_round_img>
+		<attr_tricolor_round_default_img><![CDATA[]]></attr_tricolor_round_default_img>
+		<attr_tricolor_round_img><![CDATA[]]></attr_tricolor_round_img>
+	</node>
+	<node>
+		<prod_sku><![CDATA[1017]]></prod_sku>
+		<prod_live_url><![CDATA[[prod_name}-[prod_sku]]]></prod_live_url>
+		<prod_name><![CDATA[Men's Beveled Edge Rose Gold Wedding Band]]></prod_name>
+		<prod_long_desc><![CDATA[Classic Dora men's beveled edge rose gold wedding band with brushed carbon figer and rose gold with beveled edges. A simple, but timeless piece.]]></prod_long_desc>
+		<prod_type><![CDATA[Wedding Bands]]></prod_type>
+		<prod_subcategory><![CDATA[Carbon Fiber Men,Rose Gold Men,Men Wedding Band]]></prod_subcategory>
+		<prodmeta_section><![CDATA[Mens]]></prodmeta_section>
+		<prodmeta_ship_days><![CDATA[18]]></prodmeta_ship_days>
+		<prodmeta_metal_weight><![CDATA[]]></prodmeta_metal_weight>
+		<prodmeta_side_diamonds_count><![CDATA[]]></prodmeta_side_diamonds_count>
+		<prodmeta_side_diamonds_ctw><![CDATA[]]></prodmeta_side_diamonds_ctw>
+		<prodmeta_side_diamonds_color_clarity><![CDATA[]]></prodmeta_side_diamonds_color_clarity>
+		<prodmeta_side_diamonds1_count><![CDATA[]]></prodmeta_side_diamonds1_count>
+		<attr_14k_regular><![CDATA[790]]></attr_14k_regular>
+		<attr_14k_metal_available><![CDATA[Rose Gold]]></attr_14k_metal_available>
+		<attr_18k_regular><![CDATA[]]></attr_18k_regular>
+		<attr_18k_metal_available><![CDATA[]]></attr_18k_metal_available>
+		<attr_platinum_regular><![CDATA[]]></attr_platinum_regular>
+		<attr_whitegold_platinum_round_default_img><![CDATA[]]></attr_whitegold_platinum_round_default_img>
+		<attr_whitegold_platinum_round_img><![CDATA[]]></attr_whitegold_platinum_round_img>
+		<attr_rosegold_round_default_img><![CDATA[wedding-bands/592b00/shapes/round/592b00-rosegold_round_default.jpg]]></attr_rosegold_round_default_img>
+		<attr_rosegold_round_img><![CDATA[]]></attr_rosegold_round_img>
+		<attr_yellowgold_round_default_img><![CDATA[]]></attr_yellowgold_round_default_img>
+		<attr_yellowgold_round_img><![CDATA[]]></attr_yellowgold_round_img>
+		<attr_whitegold_yellow_round_default_img><![CDATA[]]></attr_whitegold_yellow_round_default_img>
+		<attr_whitegold_yellow_round_img><![CDATA[]]></attr_whitegold_yellow_round_img>
+		<attr_whitegold_rose_round_default_img><![CDATA[]]></attr_whitegold_rose_round_default_img>
+		<attr_whitegold_rose_round_img><![CDATA[]]></attr_whitegold_rose_round_img>
+		<attr_tricolor_round_default_img><![CDATA[]]></attr_tricolor_round_default_img>
+		<attr_tricolor_round_img><![CDATA[]]></attr_tricolor_round_img>
+	</node>
+	<node>
+		<prod_sku><![CDATA[1018]]></prod_sku>
+		<prod_live_url><![CDATA[[prod_name}-[prod_sku]]]></prod_live_url>
+		<prod_name><![CDATA[Men's Bezel Diamond Wedding Band]]></prod_name>
+		<prod_long_desc><![CDATA[This modern Dora men's bezel diamond wedding band features carbon fiber with polished white gold detailing and a round diamond. The perfect ratio of sleek and classy.]]></prod_long_desc>
+		<prod_type><![CDATA[Wedding Bands]]></prod_type>
+		<prod_subcategory><![CDATA[Carbon Fiber Men,White Gold Men,Men Wedding Band]]></prod_subcategory>
+		<prodmeta_section><![CDATA[Mens]]></prodmeta_section>
+		<prodmeta_ship_days><![CDATA[19]]></prodmeta_ship_days>
+		<prodmeta_metal_weight><![CDATA[]]></prodmeta_metal_weight>
+		<prodmeta_side_diamonds_count><![CDATA[1]]></prodmeta_side_diamonds_count>
+		<prodmeta_side_diamonds_ctw><![CDATA[0.04ct.]]></prodmeta_side_diamonds_ctw>
+		<prodmeta_side_diamonds_color_clarity><![CDATA[F/G - VS/SI1]]></prodmeta_side_diamonds_color_clarity>
+		<prodmeta_side_diamonds1_count><![CDATA[]]></prodmeta_side_diamonds1_count>
+		<attr_14k_regular><![CDATA[1015]]></attr_14k_regular>
+		<attr_14k_metal_available><![CDATA[White Gold]]></attr_14k_metal_available>
+		<attr_18k_regular><![CDATA[]]></attr_18k_regular>
+		<attr_18k_metal_available><![CDATA[]]></attr_18k_metal_available>
+		<attr_platinum_regular><![CDATA[]]></attr_platinum_regular>
+		<attr_whitegold_platinum_round_default_img><![CDATA[wedding-bands/592b02/shapes/round/592b02-whitegold_platinum_round_default.jpg]]></attr_whitegold_platinum_round_default_img>
+		<attr_whitegold_platinum_round_img><![CDATA[]]></attr_whitegold_platinum_round_img>
+		<attr_rosegold_round_default_img><![CDATA[]]></attr_rosegold_round_default_img>
+		<attr_rosegold_round_img><![CDATA[]]></attr_rosegold_round_img>
+		<attr_yellowgold_round_default_img><![CDATA[]]></attr_yellowgold_round_default_img>
+		<attr_yellowgold_round_img><![CDATA[]]></attr_yellowgold_round_img>
+		<attr_whitegold_yellow_round_default_img><![CDATA[]]></attr_whitegold_yellow_round_default_img>
+		<attr_whitegold_yellow_round_img><![CDATA[]]></attr_whitegold_yellow_round_img>
+		<attr_whitegold_rose_round_default_img><![CDATA[]]></attr_whitegold_rose_round_default_img>
+		<attr_whitegold_rose_round_img><![CDATA[]]></attr_whitegold_rose_round_img>
+		<attr_tricolor_round_default_img><![CDATA[]]></attr_tricolor_round_default_img>
+		<attr_tricolor_round_img><![CDATA[]]></attr_tricolor_round_img>
+	</node>
+	<node>
+		<prod_sku><![CDATA[1019]]></prod_sku>
+		<prod_live_url><![CDATA[[prod_name}-[prod_sku]]]></prod_live_url>
+		<prod_name><![CDATA[Men's 3 Stone Bezel Diamond Wedding Band]]></prod_name>
+		<prod_long_desc><![CDATA[This beautiful Dora men's 3 stone bezel diamond wedding band features carbon fiber and white gold with 3 bezel set diamonds.]]></prod_long_desc>
+		<prod_type><![CDATA[Wedding Bands]]></prod_type>
+		<prod_subcategory><![CDATA[Carbon Fiber Men,White Gold Men,Men Wedding Band]]></prod_subcategory>
+		<prodmeta_section><![CDATA[Mens]]></prodmeta_section>
+		<prodmeta_ship_days><![CDATA[20]]></prodmeta_ship_days>
+		<prodmeta_metal_weight><![CDATA[]]></prodmeta_metal_weight>
+		<prodmeta_side_diamonds_count><![CDATA[3]]></prodmeta_side_diamonds_count>
+		<prodmeta_side_diamonds_ctw><![CDATA[0.12ct.]]></prodmeta_side_diamonds_ctw>
+		<prodmeta_side_diamonds_color_clarity><![CDATA[F/G - VS/SI1]]></prodmeta_side_diamonds_color_clarity>
+		<prodmeta_side_diamonds1_count><![CDATA[]]></prodmeta_side_diamonds1_count>
+		<attr_14k_regular><![CDATA[1240]]></attr_14k_regular>
+		<attr_14k_metal_available><![CDATA[White Gold]]></attr_14k_metal_available>
+		<attr_18k_regular><![CDATA[]]></attr_18k_regular>
+		<attr_18k_metal_available><![CDATA[]]></attr_18k_metal_available>
+		<attr_platinum_regular><![CDATA[]]></attr_platinum_regular>
+		<attr_whitegold_platinum_round_default_img><![CDATA[wedding-bands/592b03/shapes/round/592b03-whitegold_platinum_round_default.jpg]]></attr_whitegold_platinum_round_default_img>
+		<attr_whitegold_platinum_round_img><![CDATA[]]></attr_whitegold_platinum_round_img>
+		<attr_rosegold_round_default_img><![CDATA[]]></attr_rosegold_round_default_img>
+		<attr_rosegold_round_img><![CDATA[]]></attr_rosegold_round_img>
+		<attr_yellowgold_round_default_img><![CDATA[]]></attr_yellowgold_round_default_img>
+		<attr_yellowgold_round_img><![CDATA[]]></attr_yellowgold_round_img>
+		<attr_whitegold_yellow_round_default_img><![CDATA[]]></attr_whitegold_yellow_round_default_img>
+		<attr_whitegold_yellow_round_img><![CDATA[]]></attr_whitegold_yellow_round_img>
+		<attr_whitegold_rose_round_default_img><![CDATA[]]></attr_whitegold_rose_round_default_img>
+		<attr_whitegold_rose_round_img><![CDATA[]]></attr_whitegold_rose_round_img>
+		<attr_tricolor_round_default_img><![CDATA[]]></attr_tricolor_round_default_img>
+		<attr_tricolor_round_img><![CDATA[]]></attr_tricolor_round_img>
+	</node>
+	<node>
+		<prod_sku><![CDATA[1020]]></prod_sku>
+		<prod_live_url><![CDATA[[prod_name}-[prod_sku]]]></prod_live_url>
+		<prod_name><![CDATA[Men's Thick Rose Gold Wedding Band]]></prod_name>
+		<prod_long_desc><![CDATA[This simple yet bold Dora men's thick rose gold wedding band features brushed carbon fiber and polished rose gold edges.]]></prod_long_desc>
+		<prod_type><![CDATA[Wedding Bands]]></prod_type>
+		<prod_subcategory><![CDATA[Carbon Fiber Men,Rose Gold Men,Men Wedding Band]]></prod_subcategory>
+		<prodmeta_section><![CDATA[Mens]]></prodmeta_section>
+		<prodmeta_ship_days><![CDATA[21]]></prodmeta_ship_days>
+		<prodmeta_metal_weight><![CDATA[]]></prodmeta_metal_weight>
+		<prodmeta_side_diamonds_count><![CDATA[]]></prodmeta_side_diamonds_count>
+		<prodmeta_side_diamonds_ctw><![CDATA[]]></prodmeta_side_diamonds_ctw>
+		<prodmeta_side_diamonds_color_clarity><![CDATA[]]></prodmeta_side_diamonds_color_clarity>
+		<prodmeta_side_diamonds1_count><![CDATA[]]></prodmeta_side_diamonds1_count>
+		<attr_14k_regular><![CDATA[990]]></attr_14k_regular>
+		<attr_14k_metal_available><![CDATA[Rose Gold]]></attr_14k_metal_available>
+		<attr_18k_regular><![CDATA[]]></attr_18k_regular>
+		<attr_18k_metal_available><![CDATA[]]></attr_18k_metal_available>
+		<attr_platinum_regular><![CDATA[]]></attr_platinum_regular>
+		<attr_whitegold_platinum_round_default_img><![CDATA[]]></attr_whitegold_platinum_round_default_img>
+		<attr_whitegold_platinum_round_img><![CDATA[]]></attr_whitegold_platinum_round_img>
+		<attr_rosegold_round_default_img><![CDATA[wedding-bands/593b00/shapes/round/593b00-rosegold_round_default.jpg]]></attr_rosegold_round_default_img>
+		<attr_rosegold_round_img><![CDATA[]]></attr_rosegold_round_img>
+		<attr_yellowgold_round_default_img><![CDATA[]]></attr_yellowgold_round_default_img>
+		<attr_yellowgold_round_img><![CDATA[]]></attr_yellowgold_round_img>
+		<attr_whitegold_yellow_round_default_img><![CDATA[]]></attr_whitegold_yellow_round_default_img>
+		<attr_whitegold_yellow_round_img><![CDATA[]]></attr_whitegold_yellow_round_img>
+		<attr_whitegold_rose_round_default_img><![CDATA[]]></attr_whitegold_rose_round_default_img>
+		<attr_whitegold_rose_round_img><![CDATA[]]></attr_whitegold_rose_round_img>
+		<attr_tricolor_round_default_img><![CDATA[]]></attr_tricolor_round_default_img>
+		<attr_tricolor_round_img><![CDATA[]]></attr_tricolor_round_img>
+	</node>
+	<node>
+		<prod_sku><![CDATA[1021]]></prod_sku>
+		<prod_live_url><![CDATA[[prod_name}-[prod_sku]]]></prod_live_url>
+		<prod_name><![CDATA[Men's Yellow Gold Bezel Diamond Wedding Band]]></prod_name>
+		<prod_long_desc><![CDATA[This Dora men's yellow gold bezel diamond wedding band features vibrant yellow gold and carbon fiber with a single bezel set diamond.]]></prod_long_desc>
+		<prod_type><![CDATA[Wedding Bands]]></prod_type>
+		<prod_subcategory><![CDATA[Carbon Fiber Men,Yellow Gold Men,Men Wedding Band]]></prod_subcategory>
+		<prodmeta_section><![CDATA[Mens]]></prodmeta_section>
+		<prodmeta_ship_days><![CDATA[22]]></prodmeta_ship_days>
+		<prodmeta_metal_weight><![CDATA[]]></prodmeta_metal_weight>
+		<prodmeta_side_diamonds_count><![CDATA[1]]></prodmeta_side_diamonds_count>
+		<prodmeta_side_diamonds_ctw><![CDATA[0.04ct.]]></prodmeta_side_diamonds_ctw>
+		<prodmeta_side_diamonds_color_clarity><![CDATA[F/G - VS/SI1]]></prodmeta_side_diamonds_color_clarity>
+		<prodmeta_side_diamonds1_count><![CDATA[]]></prodmeta_side_diamonds1_count>
+		<attr_14k_regular><![CDATA[1165]]></attr_14k_regular>
+		<attr_14k_metal_available><![CDATA[Yellow Gold]]></attr_14k_metal_available>
+		<attr_18k_regular><![CDATA[]]></attr_18k_regular>
+		<attr_18k_metal_available><![CDATA[]]></attr_18k_metal_available>
+		<attr_platinum_regular><![CDATA[]]></attr_platinum_regular>
+		<attr_whitegold_platinum_round_default_img><![CDATA[]]></attr_whitegold_platinum_round_default_img>
+		<attr_whitegold_platinum_round_img><![CDATA[]]></attr_whitegold_platinum_round_img>
+		<attr_rosegold_round_default_img><![CDATA[]]></attr_rosegold_round_default_img>
+		<attr_rosegold_round_img><![CDATA[]]></attr_rosegold_round_img>
+		<attr_yellowgold_round_default_img><![CDATA[wedding-bands/593b02/shapes/round/593b02-yellowgold_round_default.jpg]]></attr_yellowgold_round_default_img>
+		<attr_yellowgold_round_img><![CDATA[]]></attr_yellowgold_round_img>
+		<attr_whitegold_yellow_round_default_img><![CDATA[]]></attr_whitegold_yellow_round_default_img>
+		<attr_whitegold_yellow_round_img><![CDATA[]]></attr_whitegold_yellow_round_img>
+		<attr_whitegold_rose_round_default_img><![CDATA[]]></attr_whitegold_rose_round_default_img>
+		<attr_whitegold_rose_round_img><![CDATA[]]></attr_whitegold_rose_round_img>
+		<attr_tricolor_round_default_img><![CDATA[]]></attr_tricolor_round_default_img>
+		<attr_tricolor_round_img><![CDATA[]]></attr_tricolor_round_img>
+	</node>
+	<node>
+		<prod_sku><![CDATA[1022]]></prod_sku>
+		<prod_live_url><![CDATA[[prod_name}-[prod_sku]]]></prod_live_url>
+		<prod_name><![CDATA[Men's Rose Gold And Carbon Fiber Trim Wedding Band]]></prod_name>
+		<prod_long_desc><![CDATA[A comfort fit Dora men's rose gold and carbon fiber trim wedding band featuring tantalum with a rose gold center trim and 2 equally spaced carbon fiber trims.]]></prod_long_desc>
+		<prod_type><![CDATA[Wedding Bands]]></prod_type>
+		<prod_subcategory><![CDATA[Tantalum Men,Rose Gold Men,Men Wedding Band]]></prod_subcategory>
+		<prodmeta_section><![CDATA[Mens]]></prodmeta_section>
+		<prodmeta_ship_days><![CDATA[23]]></prodmeta_ship_days>
+		<prodmeta_metal_weight><![CDATA[]]></prodmeta_metal_weight>
+		<prodmeta_side_diamonds_count><![CDATA[]]></prodmeta_side_diamonds_count>
+		<prodmeta_side_diamonds_ctw><![CDATA[]]></prodmeta_side_diamonds_ctw>
+		<prodmeta_side_diamonds_color_clarity><![CDATA[]]></prodmeta_side_diamonds_color_clarity>
+		<prodmeta_side_diamonds1_count><![CDATA[]]></prodmeta_side_diamonds1_count>
+		<attr_14k_regular><![CDATA[825]]></attr_14k_regular>
+		<attr_14k_metal_available><![CDATA[Rose Gold]]></attr_14k_metal_available>
+		<attr_18k_regular><![CDATA[]]></attr_18k_regular>
+		<attr_18k_metal_available><![CDATA[]]></attr_18k_metal_available>
+		<attr_platinum_regular><![CDATA[]]></attr_platinum_regular>
+		<attr_whitegold_platinum_round_default_img><![CDATA[]]></attr_whitegold_platinum_round_default_img>
+		<attr_whitegold_platinum_round_img><![CDATA[]]></attr_whitegold_platinum_round_img>
+		<attr_rosegold_round_default_img><![CDATA[wedding-bands/593b04/shapes/round/593b04-rosegold_round_default.jpg]]></attr_rosegold_round_default_img>
+		<attr_rosegold_round_img><![CDATA[]]></attr_rosegold_round_img>
+		<attr_yellowgold_round_default_img><![CDATA[]]></attr_yellowgold_round_default_img>
+		<attr_yellowgold_round_img><![CDATA[]]></attr_yellowgold_round_img>
+		<attr_whitegold_yellow_round_default_img><![CDATA[]]></attr_whitegold_yellow_round_default_img>
+		<attr_whitegold_yellow_round_img><![CDATA[]]></attr_whitegold_yellow_round_img>
+		<attr_whitegold_rose_round_default_img><![CDATA[]]></attr_whitegold_rose_round_default_img>
+		<attr_whitegold_rose_round_img><![CDATA[]]></attr_whitegold_rose_round_img>
+		<attr_tricolor_round_default_img><![CDATA[]]></attr_tricolor_round_default_img>
+		<attr_tricolor_round_img><![CDATA[]]></attr_tricolor_round_img>
+	</node>
+	<node>
+		<prod_sku><![CDATA[1023]]></prod_sku>
+		<prod_live_url><![CDATA[[prod_name}-[prod_sku]]]></prod_live_url>
+		<prod_name><![CDATA[Men's Milgrain Rose Gold Wedding Band]]></prod_name>
+		<prod_long_desc><![CDATA[A beautiful Dora men's milgrain wedding band with brushed carbon fiber, subtle milgrain detailing and polished rose gold.]]></prod_long_desc>
+		<prod_type><![CDATA[Wedding Bands]]></prod_type>
+		<prod_subcategory><![CDATA[Carbon Fiber Men,Rose Gold Men,Men Wedding Band]]></prod_subcategory>
+		<prodmeta_section><![CDATA[Mens]]></prodmeta_section>
+		<prodmeta_ship_days><![CDATA[24]]></prodmeta_ship_days>
+		<prodmeta_metal_weight><![CDATA[]]></prodmeta_metal_weight>
+		<prodmeta_side_diamonds_count><![CDATA[]]></prodmeta_side_diamonds_count>
+		<prodmeta_side_diamonds_ctw><![CDATA[]]></prodmeta_side_diamonds_ctw>
+		<prodmeta_side_diamonds_color_clarity><![CDATA[]]></prodmeta_side_diamonds_color_clarity>
+		<prodmeta_side_diamonds1_count><![CDATA[]]></prodmeta_side_diamonds1_count>
+		<attr_14k_regular><![CDATA[865]]></attr_14k_regular>
+		<attr_14k_metal_available><![CDATA[Rose Gold]]></attr_14k_metal_available>
+		<attr_18k_regular><![CDATA[]]></attr_18k_regular>
+		<attr_18k_metal_available><![CDATA[]]></attr_18k_metal_available>
+		<attr_platinum_regular><![CDATA[]]></attr_platinum_regular>
+		<attr_whitegold_platinum_round_default_img><![CDATA[]]></attr_whitegold_platinum_round_default_img>
+		<attr_whitegold_platinum_round_img><![CDATA[]]></attr_whitegold_platinum_round_img>
+		<attr_rosegold_round_default_img><![CDATA[wedding-bands/595b00/shapes/round/595b00-rosegold_round_default.jpg]]></attr_rosegold_round_default_img>
+		<attr_rosegold_round_img><![CDATA[]]></attr_rosegold_round_img>
+		<attr_yellowgold_round_default_img><![CDATA[]]></attr_yellowgold_round_default_img>
+		<attr_yellowgold_round_img><![CDATA[]]></attr_yellowgold_round_img>
+		<attr_whitegold_yellow_round_default_img><![CDATA[]]></attr_whitegold_yellow_round_default_img>
+		<attr_whitegold_yellow_round_img><![CDATA[]]></attr_whitegold_yellow_round_img>
+		<attr_whitegold_rose_round_default_img><![CDATA[]]></attr_whitegold_rose_round_default_img>
+		<attr_whitegold_rose_round_img><![CDATA[]]></attr_whitegold_rose_round_img>
+		<attr_tricolor_round_default_img><![CDATA[]]></attr_tricolor_round_default_img>
+		<attr_tricolor_round_img><![CDATA[]]></attr_tricolor_round_img>
+	</node>
+	<node>
+		<prod_sku><![CDATA[1024]]></prod_sku>
+		<prod_live_url><![CDATA[[prod_name}-[prod_sku]]]></prod_live_url>
+		<prod_name><![CDATA[Men's Inlay Yellow Gold Wedding Band]]></prod_name>
+		<prod_long_desc><![CDATA[A unique Dora men's inlay yellow gold wedding band with double carbon fiber inlays and yellow gold for those who want something different, but simple.]]></prod_long_desc>
+		<prod_type><![CDATA[Wedding Bands]]></prod_type>
+		<prod_subcategory><![CDATA[Carbon Fiber Men,Yellow Gold Men,Men Wedding Band]]></prod_subcategory>
+		<prodmeta_section><![CDATA[Mens]]></prodmeta_section>
+		<prodmeta_ship_days><![CDATA[25]]></prodmeta_ship_days>
+		<prodmeta_metal_weight><![CDATA[]]></prodmeta_metal_weight>
+		<prodmeta_side_diamonds_count><![CDATA[]]></prodmeta_side_diamonds_count>
+		<prodmeta_side_diamonds_ctw><![CDATA[]]></prodmeta_side_diamonds_ctw>
+		<prodmeta_side_diamonds_color_clarity><![CDATA[]]></prodmeta_side_diamonds_color_clarity>
+		<prodmeta_side_diamonds1_count><![CDATA[]]></prodmeta_side_diamonds1_count>
+		<attr_14k_regular><![CDATA[1075]]></attr_14k_regular>
+		<attr_14k_metal_available><![CDATA[Yellow Gold]]></attr_14k_metal_available>
+		<attr_18k_regular><![CDATA[]]></attr_18k_regular>
+		<attr_18k_metal_available><![CDATA[]]></attr_18k_metal_available>
+		<attr_platinum_regular><![CDATA[]]></attr_platinum_regular>
+		<attr_whitegold_platinum_round_default_img><![CDATA[]]></attr_whitegold_platinum_round_default_img>
+		<attr_whitegold_platinum_round_img><![CDATA[]]></attr_whitegold_platinum_round_img>
+		<attr_rosegold_round_default_img><![CDATA[]]></attr_rosegold_round_default_img>
+		<attr_rosegold_round_img><![CDATA[]]></attr_rosegold_round_img>
+		<attr_yellowgold_round_default_img><![CDATA[wedding-bands/596b00/shapes/round/596b00-yellowgold_round_default.jpg]]></attr_yellowgold_round_default_img>
+		<attr_yellowgold_round_img><![CDATA[]]></attr_yellowgold_round_img>
+		<attr_whitegold_yellow_round_default_img><![CDATA[]]></attr_whitegold_yellow_round_default_img>
+		<attr_whitegold_yellow_round_img><![CDATA[]]></attr_whitegold_yellow_round_img>
+		<attr_whitegold_rose_round_default_img><![CDATA[]]></attr_whitegold_rose_round_default_img>
+		<attr_whitegold_rose_round_img><![CDATA[]]></attr_whitegold_rose_round_img>
+		<attr_tricolor_round_default_img><![CDATA[]]></attr_tricolor_round_default_img>
+		<attr_tricolor_round_img><![CDATA[]]></attr_tricolor_round_img>
+	</node>
+	<node>
+		<prod_sku><![CDATA[1025]]></prod_sku>
+		<prod_live_url><![CDATA[[prod_name}-[prod_sku]]]></prod_live_url>
+		<prod_name><![CDATA[Unique Men's Diamond Wedding Band]]></prod_name>
+		<prod_long_desc><![CDATA[This Dora unique men's diamond wedding band features a raised center pattern and round diamonds for a special elegant look.]]></prod_long_desc>
+		<prod_type><![CDATA[Wedding Bands]]></prod_type>
+		<prod_subcategory><![CDATA[Diamond Men,White Gold Men,Platinum Men,Men Wedding Band]]></prod_subcategory>
+		<prodmeta_section><![CDATA[Mens]]></prodmeta_section>
+		<prodmeta_ship_days><![CDATA[26]]></prodmeta_ship_days>
+		<prodmeta_metal_weight><![CDATA[]]></prodmeta_metal_weight>
+		<prodmeta_side_diamonds_count><![CDATA[12]]></prodmeta_side_diamonds_count>
+		<prodmeta_side_diamonds_ctw><![CDATA[0.144ct.]]></prodmeta_side_diamonds_ctw>
+		<prodmeta_side_diamonds_color_clarity><![CDATA[F/G - VS/SI1]]></prodmeta_side_diamonds_color_clarity>
+		<prodmeta_side_diamonds1_count><![CDATA[]]></prodmeta_side_diamonds1_count>
+		<attr_14k_regular><![CDATA[2175]]></attr_14k_regular>
+		<attr_14k_metal_available><![CDATA[White Gold ]]></attr_14k_metal_available>
+		<attr_18k_regular><![CDATA[2990]]></attr_18k_regular>
+		<attr_18k_metal_available><![CDATA[White Gold ]]></attr_18k_metal_available>
+		<attr_platinum_regular><![CDATA[3665]]></attr_platinum_regular>
+		<attr_whitegold_platinum_round_default_img><![CDATA[wedding-bands/599a00/shapes/round/599a00-whitegold_platinum_round_default.jpg]]></attr_whitegold_platinum_round_default_img>
+		<attr_whitegold_platinum_round_img><![CDATA[]]></attr_whitegold_platinum_round_img>
+		<attr_rosegold_round_default_img><![CDATA[]]></attr_rosegold_round_default_img>
+		<attr_rosegold_round_img><![CDATA[]]></attr_rosegold_round_img>
+		<attr_yellowgold_round_default_img><![CDATA[]]></attr_yellowgold_round_default_img>
+		<attr_yellowgold_round_img><![CDATA[]]></attr_yellowgold_round_img>
+		<attr_whitegold_yellow_round_default_img><![CDATA[]]></attr_whitegold_yellow_round_default_img>
+		<attr_whitegold_yellow_round_img><![CDATA[]]></attr_whitegold_yellow_round_img>
+		<attr_whitegold_rose_round_default_img><![CDATA[]]></attr_whitegold_rose_round_default_img>
+		<attr_whitegold_rose_round_img><![CDATA[]]></attr_whitegold_rose_round_img>
+		<attr_tricolor_round_default_img><![CDATA[]]></attr_tricolor_round_default_img>
+		<attr_tricolor_round_img><![CDATA[]]></attr_tricolor_round_img>
+	</node>
+	<node>
+		<prod_sku><![CDATA[1026]]></prod_sku>
+		<prod_live_url><![CDATA[[prod_name}-[prod_sku]]]></prod_live_url>
+		<prod_name><![CDATA[Angled Channel Diamond Wedding Band]]></prod_name>
+		<prod_long_desc><![CDATA[This Dora men's angled channel diamond wedding band features an angled slot channel set with round diamonds.]]></prod_long_desc>
+		<prod_type><![CDATA[Wedding Bands]]></prod_type>
+		<prod_subcategory><![CDATA[Diamond Men,White Gold Men,Platinum Men,Men Wedding Band]]></prod_subcategory>
+		<prodmeta_section><![CDATA[Mens]]></prodmeta_section>
+		<prodmeta_ship_days><![CDATA[27]]></prodmeta_ship_days>
+		<prodmeta_metal_weight><![CDATA[]]></prodmeta_metal_weight>
+		<prodmeta_side_diamonds_count><![CDATA[3]]></prodmeta_side_diamonds_count>
+		<prodmeta_side_diamonds_ctw><![CDATA[0.12ct.]]></prodmeta_side_diamonds_ctw>
+		<prodmeta_side_diamonds_color_clarity><![CDATA[F/G - VS/SI1]]></prodmeta_side_diamonds_color_clarity>
+		<prodmeta_side_diamonds1_count><![CDATA[]]></prodmeta_side_diamonds1_count>
+		<attr_14k_regular><![CDATA[1875]]></attr_14k_regular>
+		<attr_14k_metal_available><![CDATA[White Gold ]]></attr_14k_metal_available>
+		<attr_18k_regular><![CDATA[2565]]></attr_18k_regular>
+		<attr_18k_metal_available><![CDATA[White Gold ]]></attr_18k_metal_available>
+		<attr_platinum_regular><![CDATA[3165]]></attr_platinum_regular>
+		<attr_whitegold_platinum_round_default_img><![CDATA[wedding-bands/606a03/shapes/round/606a03-whitegold_platinum_round_default.jpg]]></attr_whitegold_platinum_round_default_img>
+		<attr_whitegold_platinum_round_img><![CDATA[]]></attr_whitegold_platinum_round_img>
+		<attr_rosegold_round_default_img><![CDATA[]]></attr_rosegold_round_default_img>
+		<attr_rosegold_round_img><![CDATA[]]></attr_rosegold_round_img>
+		<attr_yellowgold_round_default_img><![CDATA[]]></attr_yellowgold_round_default_img>
+		<attr_yellowgold_round_img><![CDATA[]]></attr_yellowgold_round_img>
+		<attr_whitegold_yellow_round_default_img><![CDATA[]]></attr_whitegold_yellow_round_default_img>
+		<attr_whitegold_yellow_round_img><![CDATA[]]></attr_whitegold_yellow_round_img>
+		<attr_whitegold_rose_round_default_img><![CDATA[]]></attr_whitegold_rose_round_default_img>
+		<attr_whitegold_rose_round_img><![CDATA[]]></attr_whitegold_rose_round_img>
+		<attr_tricolor_round_default_img><![CDATA[]]></attr_tricolor_round_default_img>
+		<attr_tricolor_round_img><![CDATA[]]></attr_tricolor_round_img>
+	</node>
+	<node>
+		<prod_sku><![CDATA[1027]]></prod_sku>
+		<prod_live_url><![CDATA[[prod_name}-[prod_sku]]]></prod_live_url>
+		<prod_name><![CDATA[Blue And White Diamond Wedding Band]]></prod_name>
+		<prod_long_desc><![CDATA[This unique blue and white diamond wedding band features a center row of channel set blue diamonds artfully encased in a zigzag pattern with pave set diamonds framing the sides and a milgrain finish.]]></prod_long_desc>
+		<prod_type><![CDATA[Wedding Bands]]></prod_type>
+		<prod_subcategory><![CDATA[Blue Diamond Women,White Gold Women,Platinum Women,Women Wedding Band]]></prod_subcategory>
+		<prodmeta_section><![CDATA[Womens]]></prodmeta_section>
+		<prodmeta_ship_days><![CDATA[28]]></prodmeta_ship_days>
+		<prodmeta_metal_weight><![CDATA[7.4 Grams]]></prodmeta_metal_weight>
+		<prodmeta_side_diamonds_count><![CDATA[30]]></prodmeta_side_diamonds_count>
+		<prodmeta_side_diamonds_ctw><![CDATA[0.58ct.]]></prodmeta_side_diamonds_ctw>
+		<prodmeta_side_diamonds_color_clarity><![CDATA[F/G - VS/SI1]]></prodmeta_side_diamonds_color_clarity>
+		<prodmeta_side_diamonds1_count><![CDATA[11]]></prodmeta_side_diamonds1_count>
+		<attr_14k_regular><![CDATA[6055]]></attr_14k_regular>
+		<attr_14k_metal_available><![CDATA[White Gold]]></attr_14k_metal_available>
+		<attr_18k_regular><![CDATA[6685]]></attr_18k_regular>
+		<attr_18k_metal_available><![CDATA[White Gold]]></attr_18k_metal_available>
+		<attr_platinum_regular><![CDATA[7250]]></attr_platinum_regular>
+		<attr_whitegold_platinum_round_default_img><![CDATA[wedding-bands/6094lbd/shapes/round/6094lbd-whitegold_platinum_round_default.jpg]]></attr_whitegold_platinum_round_default_img>
+		<attr_whitegold_platinum_round_img><![CDATA[]]></attr_whitegold_platinum_round_img>
+		<attr_rosegold_round_default_img><![CDATA[]]></attr_rosegold_round_default_img>
+		<attr_rosegold_round_img><![CDATA[]]></attr_rosegold_round_img>
+		<attr_yellowgold_round_default_img><![CDATA[]]></attr_yellowgold_round_default_img>
+		<attr_yellowgold_round_img><![CDATA[]]></attr_yellowgold_round_img>
+		<attr_whitegold_yellow_round_default_img><![CDATA[]]></attr_whitegold_yellow_round_default_img>
+		<attr_whitegold_yellow_round_img><![CDATA[]]></attr_whitegold_yellow_round_img>
+		<attr_whitegold_rose_round_default_img><![CDATA[]]></attr_whitegold_rose_round_default_img>
+		<attr_whitegold_rose_round_img><![CDATA[]]></attr_whitegold_rose_round_img>
+		<attr_tricolor_round_default_img><![CDATA[]]></attr_tricolor_round_default_img>
+		<attr_tricolor_round_img><![CDATA[]]></attr_tricolor_round_img>
+	</node>
+	<node>
+		<prod_sku><![CDATA[1028]]></prod_sku>
+		<prod_live_url><![CDATA[[prod_name}-[prod_sku]]]></prod_live_url>
+		<prod_name><![CDATA[Men's Carbon Fiber And Rose Gold Trim Wedding Band]]></prod_name>
+		<prod_long_desc><![CDATA[A Dora men's carbon fiber and rose gold trim wedding band with a tantalum interior, carbon fiber exterior and a rose gold trim.]]></prod_long_desc>
+		<prod_type><![CDATA[Wedding Bands]]></prod_type>
+		<prod_subcategory><![CDATA[Tantalum Men,Rose Gold Men,Men Wedding Band]]></prod_subcategory>
+		<prodmeta_section><![CDATA[Mens]]></prodmeta_section>
+		<prodmeta_ship_days><![CDATA[29]]></prodmeta_ship_days>
+		<prodmeta_metal_weight><![CDATA[]]></prodmeta_metal_weight>
+		<prodmeta_side_diamonds_count><![CDATA[]]></prodmeta_side_diamonds_count>
+		<prodmeta_side_diamonds_ctw><![CDATA[]]></prodmeta_side_diamonds_ctw>
+		<prodmeta_side_diamonds_color_clarity><![CDATA[]]></prodmeta_side_diamonds_color_clarity>
+		<prodmeta_side_diamonds1_count><![CDATA[]]></prodmeta_side_diamonds1_count>
+		<attr_14k_regular><![CDATA[650]]></attr_14k_regular>
+		<attr_14k_metal_available><![CDATA[Rose Gold]]></attr_14k_metal_available>
+		<attr_18k_regular><![CDATA[]]></attr_18k_regular>
+		<attr_18k_metal_available><![CDATA[]]></attr_18k_metal_available>
+		<attr_platinum_regular><![CDATA[]]></attr_platinum_regular>
+		<attr_whitegold_platinum_round_default_img><![CDATA[]]></attr_whitegold_platinum_round_default_img>
+		<attr_whitegold_platinum_round_img><![CDATA[]]></attr_whitegold_platinum_round_img>
+		<attr_rosegold_round_default_img><![CDATA[wedding-bands/618a05/shapes/round/618a05-rosegold_round_default.jpg]]></attr_rosegold_round_default_img>
+		<attr_rosegold_round_img><![CDATA[]]></attr_rosegold_round_img>
+		<attr_yellowgold_round_default_img><![CDATA[]]></attr_yellowgold_round_default_img>
+		<attr_yellowgold_round_img><![CDATA[]]></attr_yellowgold_round_img>
+		<attr_whitegold_yellow_round_default_img><![CDATA[]]></attr_whitegold_yellow_round_default_img>
+		<attr_whitegold_yellow_round_img><![CDATA[]]></attr_whitegold_yellow_round_img>
+		<attr_whitegold_rose_round_default_img><![CDATA[]]></attr_whitegold_rose_round_default_img>
+		<attr_whitegold_rose_round_img><![CDATA[]]></attr_whitegold_rose_round_img>
+		<attr_tricolor_round_default_img><![CDATA[]]></attr_tricolor_round_default_img>
+		<attr_tricolor_round_img><![CDATA[]]></attr_tricolor_round_img>
+	</node>
+	<node>
+		<prod_sku><![CDATA[1029]]></prod_sku>
+		<prod_live_url><![CDATA[[prod_name}-[prod_sku]]]></prod_live_url>
+		<prod_name><![CDATA[Men's Brushed Inlay Wedding Band]]></prod_name>
+		<prod_long_desc><![CDATA[A beautiful Dora men's brushed inlay wedding band featuring shiny polished tantalum with a contrasting brushed inlay. This ring exhibits the perfect balance of sleek and class.]]></prod_long_desc>
+		<prod_type><![CDATA[Wedding Bands]]></prod_type>
+		<prod_subcategory><![CDATA[Tantalum Men,White Gold Men,Men Wedding Band]]></prod_subcategory>
+		<prodmeta_section><![CDATA[Mens]]></prodmeta_section>
+		<prodmeta_ship_days><![CDATA[10]]></prodmeta_ship_days>
+		<prodmeta_metal_weight><![CDATA[]]></prodmeta_metal_weight>
+		<prodmeta_side_diamonds_count><![CDATA[]]></prodmeta_side_diamonds_count>
+		<prodmeta_side_diamonds_ctw><![CDATA[]]></prodmeta_side_diamonds_ctw>
+		<prodmeta_side_diamonds_color_clarity><![CDATA[]]></prodmeta_side_diamonds_color_clarity>
+		<prodmeta_side_diamonds1_count><![CDATA[]]></prodmeta_side_diamonds1_count>
+		<attr_14k_regular><![CDATA[325]]></attr_14k_regular>
+		<attr_14k_metal_available><![CDATA[White Gold]]></attr_14k_metal_available>
+		<attr_18k_regular><![CDATA[]]></attr_18k_regular>
+		<attr_18k_metal_available><![CDATA[]]></attr_18k_metal_available>
+		<attr_platinum_regular><![CDATA[]]></attr_platinum_regular>
+		<attr_whitegold_platinum_round_default_img><![CDATA[wedding-bands/622a09/shapes/round/622a09-whitegold_platinum_round_default.jpg]]></attr_whitegold_platinum_round_default_img>
+		<attr_whitegold_platinum_round_img><![CDATA[]]></attr_whitegold_platinum_round_img>
+		<attr_rosegold_round_default_img><![CDATA[]]></attr_rosegold_round_default_img>
+		<attr_rosegold_round_img><![CDATA[]]></attr_rosegold_round_img>
+		<attr_yellowgold_round_default_img><![CDATA[]]></attr_yellowgold_round_default_img>
+		<attr_yellowgold_round_img><![CDATA[]]></attr_yellowgold_round_img>
+		<attr_whitegold_yellow_round_default_img><![CDATA[]]></attr_whitegold_yellow_round_default_img>
+		<attr_whitegold_yellow_round_img><![CDATA[]]></attr_whitegold_yellow_round_img>
+		<attr_whitegold_rose_round_default_img><![CDATA[]]></attr_whitegold_rose_round_default_img>
+		<attr_whitegold_rose_round_img><![CDATA[]]></attr_whitegold_rose_round_img>
+		<attr_tricolor_round_default_img><![CDATA[]]></attr_tricolor_round_default_img>
+		<attr_tricolor_round_img><![CDATA[]]></attr_tricolor_round_img>
+	</node>
+	<node>
+		<prod_sku><![CDATA[1030]]></prod_sku>
+		<prod_live_url><![CDATA[[prod_name}-[prod_sku]]]></prod_live_url>
+		<prod_name><![CDATA[Men's White Gold And Carbon Fiber Trim Wedding Band]]></prod_name>
+		<prod_long_desc><![CDATA[This Dora men's white gold and carbon fiber trim wedding band features tantalum and brushed carbon fiber trims with a polished white gold center.]]></prod_long_desc>
+		<prod_type><![CDATA[Wedding Bands]]></prod_type>
+		<prod_subcategory><![CDATA[Tantalum Men,White Gold Men,Men Wedding Band]]></prod_subcategory>
+		<prodmeta_section><![CDATA[Mens]]></prodmeta_section>
+		<prodmeta_ship_days><![CDATA[11]]></prodmeta_ship_days>
+		<prodmeta_metal_weight><![CDATA[]]></prodmeta_metal_weight>
+		<prodmeta_side_diamonds_count><![CDATA[]]></prodmeta_side_diamonds_count>
+		<prodmeta_side_diamonds_ctw><![CDATA[]]></prodmeta_side_diamonds_ctw>
+		<prodmeta_side_diamonds_color_clarity><![CDATA[]]></prodmeta_side_diamonds_color_clarity>
+		<prodmeta_side_diamonds1_count><![CDATA[]]></prodmeta_side_diamonds1_count>
+		<attr_14k_regular><![CDATA[790]]></attr_14k_regular>
+		<attr_14k_metal_available><![CDATA[White Gold]]></attr_14k_metal_available>
+		<attr_18k_regular><![CDATA[]]></attr_18k_regular>
+		<attr_18k_metal_available><![CDATA[]]></attr_18k_metal_available>
+		<attr_platinum_regular><![CDATA[]]></attr_platinum_regular>
+		<attr_whitegold_platinum_round_default_img><![CDATA[wedding-bands/626a04/shapes/round/626a04-whitegold_platinum_round_default.jpg]]></attr_whitegold_platinum_round_default_img>
+		<attr_whitegold_platinum_round_img><![CDATA[]]></attr_whitegold_platinum_round_img>
+		<attr_rosegold_round_default_img><![CDATA[]]></attr_rosegold_round_default_img>
+		<attr_rosegold_round_img><![CDATA[]]></attr_rosegold_round_img>
+		<attr_yellowgold_round_default_img><![CDATA[]]></attr_yellowgold_round_default_img>
+		<attr_yellowgold_round_img><![CDATA[]]></attr_yellowgold_round_img>
+		<attr_whitegold_yellow_round_default_img><![CDATA[]]></attr_whitegold_yellow_round_default_img>
+		<attr_whitegold_yellow_round_img><![CDATA[]]></attr_whitegold_yellow_round_img>
+		<attr_whitegold_rose_round_default_img><![CDATA[]]></attr_whitegold_rose_round_default_img>
+		<attr_whitegold_rose_round_img><![CDATA[]]></attr_whitegold_rose_round_img>
+		<attr_tricolor_round_default_img><![CDATA[]]></attr_tricolor_round_default_img>
+		<attr_tricolor_round_img><![CDATA[]]></attr_tricolor_round_img>
+	</node>
+	<node>
+		<prod_sku><![CDATA[1031]]></prod_sku>
+		<prod_live_url><![CDATA[[prod_name}-[prod_sku]]]></prod_live_url>
+		<prod_name><![CDATA[Men's Domed Brushed Wedding Band]]></prod_name>
+		<prod_long_desc><![CDATA[A modern Dora men's domed brushed wedding band featuring brushed tantalum that will never go out of style.]]></prod_long_desc>
+		<prod_type><![CDATA[Wedding Bands]]></prod_type>
+		<prod_subcategory><![CDATA[Tantalum Men,White Gold Men,Men Wedding Band]]></prod_subcategory>
+		<prodmeta_section><![CDATA[Mens]]></prodmeta_section>
+		<prodmeta_ship_days><![CDATA[12]]></prodmeta_ship_days>
+		<prodmeta_metal_weight><![CDATA[]]></prodmeta_metal_weight>
+		<prodmeta_side_diamonds_count><![CDATA[]]></prodmeta_side_diamonds_count>
+		<prodmeta_side_diamonds_ctw><![CDATA[]]></prodmeta_side_diamonds_ctw>
+		<prodmeta_side_diamonds_color_clarity><![CDATA[]]></prodmeta_side_diamonds_color_clarity>
+		<prodmeta_side_diamonds1_count><![CDATA[]]></prodmeta_side_diamonds1_count>
+		<attr_14k_regular><![CDATA[240]]></attr_14k_regular>
+		<attr_14k_metal_available><![CDATA[White Gold]]></attr_14k_metal_available>
+		<attr_18k_regular><![CDATA[]]></attr_18k_regular>
+		<attr_18k_metal_available><![CDATA[]]></attr_18k_metal_available>
+		<attr_platinum_regular><![CDATA[]]></attr_platinum_regular>
+		<attr_whitegold_platinum_round_default_img><![CDATA[wedding-bands/631b06/shapes/round/631b06-whitegold_platinum_round_default.jpg]]></attr_whitegold_platinum_round_default_img>
+		<attr_whitegold_platinum_round_img><![CDATA[]]></attr_whitegold_platinum_round_img>
+		<attr_rosegold_round_default_img><![CDATA[]]></attr_rosegold_round_default_img>
+		<attr_rosegold_round_img><![CDATA[]]></attr_rosegold_round_img>
+		<attr_yellowgold_round_default_img><![CDATA[]]></attr_yellowgold_round_default_img>
+		<attr_yellowgold_round_img><![CDATA[]]></attr_yellowgold_round_img>
+		<attr_whitegold_yellow_round_default_img><![CDATA[]]></attr_whitegold_yellow_round_default_img>
+		<attr_whitegold_yellow_round_img><![CDATA[]]></attr_whitegold_yellow_round_img>
+		<attr_whitegold_rose_round_default_img><![CDATA[]]></attr_whitegold_rose_round_default_img>
+		<attr_whitegold_rose_round_img><![CDATA[]]></attr_whitegold_rose_round_img>
+		<attr_tricolor_round_default_img><![CDATA[]]></attr_tricolor_round_default_img>
+		<attr_tricolor_round_img><![CDATA[]]></attr_tricolor_round_img>
+	</node>
+	<node>
+		<prod_sku><![CDATA[1032]]></prod_sku>
+		<prod_live_url><![CDATA[[prod_name}-[prod_sku]]]></prod_live_url>
+		<prod_name><![CDATA[Two Tone Trim Diamond Wedding Band]]></prod_name>
+		<prod_long_desc><![CDATA[This Dora men's two tone trim diamond wedding band features a yellow gold band with a white gold trim and round diamonds in the center.]]></prod_long_desc>
+		<prod_type><![CDATA[Wedding Bands]]></prod_type>
+		<prod_subcategory><![CDATA[Diamond Men,Two Tone Men,Men Wedding Band]]></prod_subcategory>
+		<prodmeta_section><![CDATA[Mens]]></prodmeta_section>
+		<prodmeta_ship_days><![CDATA[13]]></prodmeta_ship_days>
+		<prodmeta_metal_weight><![CDATA[]]></prodmeta_metal_weight>
+		<prodmeta_side_diamonds_count><![CDATA[7]]></prodmeta_side_diamonds_count>
+		<prodmeta_side_diamonds_ctw><![CDATA[0.07ct.]]></prodmeta_side_diamonds_ctw>
+		<prodmeta_side_diamonds_color_clarity><![CDATA[F/G - VS/SI1]]></prodmeta_side_diamonds_color_clarity>
+		<prodmeta_side_diamonds1_count><![CDATA[]]></prodmeta_side_diamonds1_count>
+		<attr_14k_regular><![CDATA[1650]]></attr_14k_regular>
+		<attr_14k_metal_available><![CDATA[WYG]]></attr_14k_metal_available>
+		<attr_18k_regular><![CDATA[2200]]></attr_18k_regular>
+		<attr_18k_metal_available><![CDATA[WYG]]></attr_18k_metal_available>
+		<attr_platinum_regular><![CDATA[]]></attr_platinum_regular>
+		<attr_whitegold_platinum_round_default_img><![CDATA[]]></attr_whitegold_platinum_round_default_img>
+		<attr_whitegold_platinum_round_img><![CDATA[]]></attr_whitegold_platinum_round_img>
+		<attr_rosegold_round_default_img><![CDATA[]]></attr_rosegold_round_default_img>
+		<attr_rosegold_round_img><![CDATA[]]></attr_rosegold_round_img>
+		<attr_yellowgold_round_default_img><![CDATA[]]></attr_yellowgold_round_default_img>
+		<attr_yellowgold_round_img><![CDATA[]]></attr_yellowgold_round_img>
+		<attr_whitegold_yellow_round_default_img><![CDATA[wedding-bands/639a23/shapes/round/639a23-whitegold_yellow_round_default.jpg]]></attr_whitegold_yellow_round_default_img>
+		<attr_whitegold_yellow_round_img><![CDATA[]]></attr_whitegold_yellow_round_img>
+		<attr_whitegold_rose_round_default_img><![CDATA[]]></attr_whitegold_rose_round_default_img>
+		<attr_whitegold_rose_round_img><![CDATA[]]></attr_whitegold_rose_round_img>
+		<attr_tricolor_round_default_img><![CDATA[]]></attr_tricolor_round_default_img>
+		<attr_tricolor_round_img><![CDATA[]]></attr_tricolor_round_img>
+	</node>
+	<node>
+		<prod_sku><![CDATA[1033]]></prod_sku>
+		<prod_live_url><![CDATA[[prod_name}-[prod_sku]]]></prod_live_url>
+		<prod_name><![CDATA[Men's Asymmetrical Two Tone Wedding Band]]></prod_name>
+		<prod_long_desc><![CDATA[This gorgeous Dora men's asymmetrical two tone wedding band features tantalum with white and rose gold inlays that will surely turn a few heads.]]></prod_long_desc>
+		<prod_type><![CDATA[Wedding Bands]]></prod_type>
+		<prod_subcategory><![CDATA[Tantalum Men,Men Wedding Band]]></prod_subcategory>
+		<prodmeta_section><![CDATA[Mens]]></prodmeta_section>
+		<prodmeta_ship_days><![CDATA[14]]></prodmeta_ship_days>
+		<prodmeta_metal_weight><![CDATA[]]></prodmeta_metal_weight>
+		<prodmeta_side_diamonds_count><![CDATA[]]></prodmeta_side_diamonds_count>
+		<prodmeta_side_diamonds_ctw><![CDATA[]]></prodmeta_side_diamonds_ctw>
+		<prodmeta_side_diamonds_color_clarity><![CDATA[]]></prodmeta_side_diamonds_color_clarity>
+		<prodmeta_side_diamonds1_count><![CDATA[]]></prodmeta_side_diamonds1_count>
+		<attr_14k_regular><![CDATA[675]]></attr_14k_regular>
+		<attr_14k_metal_available><![CDATA[WRG]]></attr_14k_metal_available>
+		<attr_18k_regular><![CDATA[]]></attr_18k_regular>
+		<attr_18k_metal_available><![CDATA[]]></attr_18k_metal_available>
+		<attr_platinum_regular><![CDATA[]]></attr_platinum_regular>
+		<attr_whitegold_platinum_round_default_img><![CDATA[]]></attr_whitegold_platinum_round_default_img>
+		<attr_whitegold_platinum_round_img><![CDATA[]]></attr_whitegold_platinum_round_img>
+		<attr_rosegold_round_default_img><![CDATA[]]></attr_rosegold_round_default_img>
+		<attr_rosegold_round_img><![CDATA[]]></attr_rosegold_round_img>
+		<attr_yellowgold_round_default_img><![CDATA[]]></attr_yellowgold_round_default_img>
+		<attr_yellowgold_round_img><![CDATA[]]></attr_yellowgold_round_img>
+		<attr_whitegold_yellow_round_default_img><![CDATA[]]></attr_whitegold_yellow_round_default_img>
+		<attr_whitegold_yellow_round_img><![CDATA[]]></attr_whitegold_yellow_round_img>
+		<attr_whitegold_rose_round_default_img><![CDATA[wedding-bands/649a01/shapes/round/649a01-whitegold_rose_round_default.jpg]]></attr_whitegold_rose_round_default_img>
+		<attr_whitegold_rose_round_img><![CDATA[]]></attr_whitegold_rose_round_img>
+		<attr_tricolor_round_default_img><![CDATA[]]></attr_tricolor_round_default_img>
+		<attr_tricolor_round_img><![CDATA[]]></attr_tricolor_round_img>
+	</node>
+	<node>
+		<prod_sku><![CDATA[1034]]></prod_sku>
+		<prod_live_url><![CDATA[[prod_name}-[prod_sku]]]></prod_live_url>
+		<prod_name><![CDATA[Three Row Diamond Wedding Band]]></prod_name>
+		<prod_long_desc><![CDATA[This three row diamond wedding band features channel set diamonds in the center surrounded by two rows of pave set diamonds and a milgrain finish for a stunning look.]]></prod_long_desc>
+		<prod_type><![CDATA[Wedding Bands]]></prod_type>
+		<prod_subcategory><![CDATA[Diamond Women,White Gold Women,Yellow Gold Women,Rose Gold Women,Platinum Women,Women Wedding Band]]></prod_subcategory>
+		<prodmeta_section><![CDATA[Womens]]></prodmeta_section>
+		<prodmeta_ship_days><![CDATA[15]]></prodmeta_ship_days>
+		<prodmeta_metal_weight><![CDATA[6.2 Grams]]></prodmeta_metal_weight>
+		<prodmeta_side_diamonds_count><![CDATA[50]]></prodmeta_side_diamonds_count>
+		<prodmeta_side_diamonds_ctw><![CDATA[0.62ct.]]></prodmeta_side_diamonds_ctw>
+		<prodmeta_side_diamonds_color_clarity><![CDATA[F/G - VS/SI1]]></prodmeta_side_diamonds_color_clarity>
+		<prodmeta_side_diamonds1_count><![CDATA[]]></prodmeta_side_diamonds1_count>
+		<attr_14k_regular><![CDATA[3530]]></attr_14k_regular>
+		<attr_14k_metal_available><![CDATA[White Gold, Rose Gold, Yellow Gold]]></attr_14k_metal_available>
+		<attr_18k_regular><![CDATA[4050]]></attr_18k_regular>
+		<attr_18k_metal_available><![CDATA[White Gold, Rose Gold, Yellow Gold]]></attr_18k_metal_available>
+		<attr_platinum_regular><![CDATA[4525]]></attr_platinum_regular>
+		<attr_whitegold_platinum_round_default_img><![CDATA[wedding-bands/6502/shapes/round/6502-whitegold_platinum_round_default.jpg]]></attr_whitegold_platinum_round_default_img>
+		<attr_whitegold_platinum_round_img><![CDATA[]]></attr_whitegold_platinum_round_img>
+		<attr_rosegold_round_default_img><![CDATA[wedding-bands/6502/shapes/round/6502-rosegold_round_default.jpg]]></attr_rosegold_round_default_img>
+		<attr_rosegold_round_img><![CDATA[]]></attr_rosegold_round_img>
+		<attr_yellowgold_round_default_img><![CDATA[wedding-bands/6502/shapes/round/6502-yellowgold_round_default.jpg]]></attr_yellowgold_round_default_img>
+		<attr_yellowgold_round_img><![CDATA[]]></attr_yellowgold_round_img>
+		<attr_whitegold_yellow_round_default_img><![CDATA[]]></attr_whitegold_yellow_round_default_img>
+		<attr_whitegold_yellow_round_img><![CDATA[]]></attr_whitegold_yellow_round_img>
+		<attr_whitegold_rose_round_default_img><![CDATA[]]></attr_whitegold_rose_round_default_img>
+		<attr_whitegold_rose_round_img><![CDATA[]]></attr_whitegold_rose_round_img>
+		<attr_tricolor_round_default_img><![CDATA[]]></attr_tricolor_round_default_img>
+		<attr_tricolor_round_img><![CDATA[]]></attr_tricolor_round_img>
+	</node>
+	<node>
+		<prod_sku><![CDATA[1035]]></prod_sku>
+		<prod_live_url><![CDATA[[prod_name}-[prod_sku]]]></prod_live_url>
+		<prod_name><![CDATA[Three Row Blue And White Diamond Wedding Band]]></prod_name>
+		<prod_long_desc><![CDATA[This three row blue and white diamond wedding band features channel set blue diamonds in the center surrounded by two rows of pave set white diamonds and a milgrain finish for a stunning look.]]></prod_long_desc>
+		<prod_type><![CDATA[Wedding Bands]]></prod_type>
+		<prod_subcategory><![CDATA[Blue Diamond Women,Channel Women,White Gold Women,Platinum Women,Women Wedding Band]]></prod_subcategory>
+		<prodmeta_section><![CDATA[Womens]]></prodmeta_section>
+		<prodmeta_ship_days><![CDATA[16]]></prodmeta_ship_days>
+		<prodmeta_metal_weight><![CDATA[6.2 Grams]]></prodmeta_metal_weight>
+		<prodmeta_side_diamonds_count><![CDATA[36]]></prodmeta_side_diamonds_count>
+		<prodmeta_side_diamonds_ctw><![CDATA[0.27ct.]]></prodmeta_side_diamonds_ctw>
+		<prodmeta_side_diamonds_color_clarity><![CDATA[F/G - VS/SI1]]></prodmeta_side_diamonds_color_clarity>
+		<prodmeta_side_diamonds1_count><![CDATA[14]]></prodmeta_side_diamonds1_count>
+		<attr_14k_regular><![CDATA[3615]]></attr_14k_regular>
+		<attr_14k_metal_available><![CDATA[White Gold]]></attr_14k_metal_available>
+		<attr_18k_regular><![CDATA[4140]]></attr_18k_regular>
+		<attr_18k_metal_available><![CDATA[White Gold]]></attr_18k_metal_available>
+		<attr_platinum_regular><![CDATA[4610]]></attr_platinum_regular>
+		<attr_whitegold_platinum_round_default_img><![CDATA[wedding-bands/6502lbd/shapes/round/three-row-blue-and-white-diamond-wedding-band.jpg]]></attr_whitegold_platinum_round_default_img>
+		<attr_whitegold_platinum_round_img><![CDATA[wedding-bands/6502lbd/shapes/round/three-row-blue-and-white-diamond-wedding-band-on-hand.jpg,wedding-bands/6502lbd/shapes/round/three-row-blue-and-white-diamond-wedding-band-on-hand2.jpg]]></attr_whitegold_platinum_round_img>
+		<attr_rosegold_round_default_img><![CDATA[]]></attr_rosegold_round_default_img>
+		<attr_rosegold_round_img><![CDATA[]]></attr_rosegold_round_img>
+		<attr_yellowgold_round_default_img><![CDATA[]]></attr_yellowgold_round_default_img>
+		<attr_yellowgold_round_img><![CDATA[]]></attr_yellowgold_round_img>
+		<attr_whitegold_yellow_round_default_img><![CDATA[]]></attr_whitegold_yellow_round_default_img>
+		<attr_whitegold_yellow_round_img><![CDATA[]]></attr_whitegold_yellow_round_img>
+		<attr_whitegold_rose_round_default_img><![CDATA[]]></attr_whitegold_rose_round_default_img>
+		<attr_whitegold_rose_round_img><![CDATA[]]></attr_whitegold_rose_round_img>
+		<attr_tricolor_round_default_img><![CDATA[]]></attr_tricolor_round_default_img>
+		<attr_tricolor_round_img><![CDATA[]]></attr_tricolor_round_img>
+	</node>
+	<node>
+		<prod_sku><![CDATA[1036]]></prod_sku>
+		<prod_live_url><![CDATA[[prod_name}-[prod_sku]]]></prod_live_url>
+		<prod_name><![CDATA[Three Row Black And White Diamond Wedding Band]]></prod_name>
+		<prod_long_desc><![CDATA[This three row black and white diamond wedding band features channel set black diamonds in the center surrounded by two rows of pave set white diamonds and a milgrain finish for a stunning look.]]></prod_long_desc>
+		<prod_type><![CDATA[Wedding Bands]]></prod_type>
+		<prod_subcategory><![CDATA[Black Diamond Women,Channel Women,White Gold Women,Platinum Women,Women Wedding Band]]></prod_subcategory>
+		<prodmeta_section><![CDATA[Womens]]></prodmeta_section>
+		<prodmeta_ship_days><![CDATA[17]]></prodmeta_ship_days>
+		<prodmeta_metal_weight><![CDATA[6.2 Grams]]></prodmeta_metal_weight>
+		<prodmeta_side_diamonds_count><![CDATA[36]]></prodmeta_side_diamonds_count>
+		<prodmeta_side_diamonds_ctw><![CDATA[0.27ct.]]></prodmeta_side_diamonds_ctw>
+		<prodmeta_side_diamonds_color_clarity><![CDATA[F/G - VS/SI1]]></prodmeta_side_diamonds_color_clarity>
+		<prodmeta_side_diamonds1_count><![CDATA[14]]></prodmeta_side_diamonds1_count>
+		<attr_14k_regular><![CDATA[3155]]></attr_14k_regular>
+		<attr_14k_metal_available><![CDATA[White Gold]]></attr_14k_metal_available>
+		<attr_18k_regular><![CDATA[3675]]></attr_18k_regular>
+		<attr_18k_metal_available><![CDATA[White Gold]]></attr_18k_metal_available>
+		<attr_platinum_regular><![CDATA[4150]]></attr_platinum_regular>
+		<attr_whitegold_platinum_round_default_img><![CDATA[wedding-bands/6502lbk/shapes/round/three-row-black-and-white-diamond-wedding-band.jpg]]></attr_whitegold_platinum_round_default_img>
+		<attr_whitegold_platinum_round_img><![CDATA[]]></attr_whitegold_platinum_round_img>
+		<attr_rosegold_round_default_img><![CDATA[]]></attr_rosegold_round_default_img>
+		<attr_rosegold_round_img><![CDATA[]]></attr_rosegold_round_img>
+		<attr_yellowgold_round_default_img><![CDATA[]]></attr_yellowgold_round_default_img>
+		<attr_yellowgold_round_img><![CDATA[]]></attr_yellowgold_round_img>
+		<attr_whitegold_yellow_round_default_img><![CDATA[]]></attr_whitegold_yellow_round_default_img>
+		<attr_whitegold_yellow_round_img><![CDATA[]]></attr_whitegold_yellow_round_img>
+		<attr_whitegold_rose_round_default_img><![CDATA[]]></attr_whitegold_rose_round_default_img>
+		<attr_whitegold_rose_round_img><![CDATA[]]></attr_whitegold_rose_round_img>
+		<attr_tricolor_round_default_img><![CDATA[]]></attr_tricolor_round_default_img>
+		<attr_tricolor_round_img><![CDATA[]]></attr_tricolor_round_img>
+	</node>
+	<node>
+		<prod_sku><![CDATA[1037]]></prod_sku>
+		<prod_live_url><![CDATA[[prod_name}-[prod_sku]]]></prod_live_url>
+		<prod_name><![CDATA[Men's Textured Wedding Band]]></prod_name>
+		<prod_long_desc><![CDATA[This Dora men's textured wedding band features a beautiful polished white gold band with a textured carbon fiber center.]]></prod_long_desc>
+		<prod_type><![CDATA[Wedding Bands]]></prod_type>
+		<prod_subcategory><![CDATA[Carbon Fiber Men,White Gold Men,Men Wedding Band]]></prod_subcategory>
+		<prodmeta_section><![CDATA[Mens]]></prodmeta_section>
+		<prodmeta_ship_days><![CDATA[18]]></prodmeta_ship_days>
+		<prodmeta_metal_weight><![CDATA[]]></prodmeta_metal_weight>
+		<prodmeta_side_diamonds_count><![CDATA[]]></prodmeta_side_diamonds_count>
+		<prodmeta_side_diamonds_ctw><![CDATA[]]></prodmeta_side_diamonds_ctw>
+		<prodmeta_side_diamonds_color_clarity><![CDATA[]]></prodmeta_side_diamonds_color_clarity>
+		<prodmeta_side_diamonds1_count><![CDATA[]]></prodmeta_side_diamonds1_count>
+		<attr_14k_regular><![CDATA[1225]]></attr_14k_regular>
+		<attr_14k_metal_available><![CDATA[White Gold]]></attr_14k_metal_available>
+		<attr_18k_regular><![CDATA[]]></attr_18k_regular>
+		<attr_18k_metal_available><![CDATA[]]></attr_18k_metal_available>
+		<attr_platinum_regular><![CDATA[]]></attr_platinum_regular>
+		<attr_whitegold_platinum_round_default_img><![CDATA[wedding-bands/650b01/shapes/round/650b01-whitegold_platinum_round_default.jpg]]></attr_whitegold_platinum_round_default_img>
+		<attr_whitegold_platinum_round_img><![CDATA[]]></attr_whitegold_platinum_round_img>
+		<attr_rosegold_round_default_img><![CDATA[]]></attr_rosegold_round_default_img>
+		<attr_rosegold_round_img><![CDATA[]]></attr_rosegold_round_img>
+		<attr_yellowgold_round_default_img><![CDATA[]]></attr_yellowgold_round_default_img>
+		<attr_yellowgold_round_img><![CDATA[]]></attr_yellowgold_round_img>
+		<attr_whitegold_yellow_round_default_img><![CDATA[]]></attr_whitegold_yellow_round_default_img>
+		<attr_whitegold_yellow_round_img><![CDATA[]]></attr_whitegold_yellow_round_img>
+		<attr_whitegold_rose_round_default_img><![CDATA[]]></attr_whitegold_rose_round_default_img>
+		<attr_whitegold_rose_round_img><![CDATA[]]></attr_whitegold_rose_round_img>
+		<attr_tricolor_round_default_img><![CDATA[]]></attr_tricolor_round_default_img>
+		<attr_tricolor_round_img><![CDATA[]]></attr_tricolor_round_img>
+	</node>
+	<node>
+		<prod_sku><![CDATA[1038]]></prod_sku>
+		<prod_live_url><![CDATA[[prod_name}-[prod_sku]]]></prod_live_url>
+		<prod_name><![CDATA[Mens Gold Diamond Wedding Band]]></prod_name>
+		<prod_long_desc><![CDATA[A clean men's gold diamond wedding band featuring a single channel set diamond for an elegant look.]]></prod_long_desc>
+		<prod_type><![CDATA[Wedding Bands]]></prod_type>
+		<prod_subcategory><![CDATA[Diamond Men,White Gold Men,Yellow Gold Men,Rose Gold Men,Platinum Men,Men Wedding Band]]></prod_subcategory>
+		<prodmeta_section><![CDATA[Mens]]></prodmeta_section>
+		<prodmeta_ship_days><![CDATA[19]]></prodmeta_ship_days>
+		<prodmeta_metal_weight><![CDATA[10.8 Grams]]></prodmeta_metal_weight>
+		<prodmeta_side_diamonds_count><![CDATA[1]]></prodmeta_side_diamonds_count>
+		<prodmeta_side_diamonds_ctw><![CDATA[0.09ct.]]></prodmeta_side_diamonds_ctw>
+		<prodmeta_side_diamonds_color_clarity><![CDATA[F/G - VS/SI1]]></prodmeta_side_diamonds_color_clarity>
+		<prodmeta_side_diamonds1_count><![CDATA[]]></prodmeta_side_diamonds1_count>
+		<attr_14k_regular><![CDATA[1945]]></attr_14k_regular>
+		<attr_14k_metal_available><![CDATA[White Gold, Rose Gold, Yellow Gold]]></attr_14k_metal_available>
+		<attr_18k_regular><![CDATA[2860]]></attr_18k_regular>
+		<attr_18k_metal_available><![CDATA[White Gold, Rose Gold, Yellow Gold]]></attr_18k_metal_available>
+		<attr_platinum_regular><![CDATA[3685]]></attr_platinum_regular>
+		<attr_whitegold_platinum_round_default_img><![CDATA[wedding-bands/6548g/shapes/round/6548g-whitegold_platinum_round_default.jpg]]></attr_whitegold_platinum_round_default_img>
+		<attr_whitegold_platinum_round_img><![CDATA[]]></attr_whitegold_platinum_round_img>
+		<attr_rosegold_round_default_img><![CDATA[wedding-bands/6548g/shapes/round/6548g-rosegold_round_default.jpg]]></attr_rosegold_round_default_img>
+		<attr_rosegold_round_img><![CDATA[]]></attr_rosegold_round_img>
+		<attr_yellowgold_round_default_img><![CDATA[wedding-bands/6548g/shapes/round/6548g-yellowgold_round_default.jpg]]></attr_yellowgold_round_default_img>
+		<attr_yellowgold_round_img><![CDATA[]]></attr_yellowgold_round_img>
+		<attr_whitegold_yellow_round_default_img><![CDATA[]]></attr_whitegold_yellow_round_default_img>
+		<attr_whitegold_yellow_round_img><![CDATA[]]></attr_whitegold_yellow_round_img>
+		<attr_whitegold_rose_round_default_img><![CDATA[]]></attr_whitegold_rose_round_default_img>
+		<attr_whitegold_rose_round_img><![CDATA[]]></attr_whitegold_rose_round_img>
+		<attr_tricolor_round_default_img><![CDATA[]]></attr_tricolor_round_default_img>
+		<attr_tricolor_round_img><![CDATA[]]></attr_tricolor_round_img>
+	</node>
+	<node>
+		<prod_sku><![CDATA[1039]]></prod_sku>
+		<prod_live_url><![CDATA[[prod_name}-[prod_sku]]]></prod_live_url>
+		<prod_name><![CDATA[Men's Rose Gold Interior Wedding Band]]></prod_name>
+		<prod_long_desc><![CDATA[Stunning Dora men's rose gold interior wedding band with brushed tantalum and a high polish rose gold interior. Subtlety at its finest.]]></prod_long_desc>
+		<prod_type><![CDATA[Wedding Bands]]></prod_type>
+		<prod_subcategory><![CDATA[Tantalum Men,Rose Gold Men,Men Wedding Band]]></prod_subcategory>
+		<prodmeta_section><![CDATA[Mens]]></prodmeta_section>
+		<prodmeta_ship_days><![CDATA[20]]></prodmeta_ship_days>
+		<prodmeta_metal_weight><![CDATA[]]></prodmeta_metal_weight>
+		<prodmeta_side_diamonds_count><![CDATA[]]></prodmeta_side_diamonds_count>
+		<prodmeta_side_diamonds_ctw><![CDATA[]]></prodmeta_side_diamonds_ctw>
+		<prodmeta_side_diamonds_color_clarity><![CDATA[]]></prodmeta_side_diamonds_color_clarity>
+		<prodmeta_side_diamonds1_count><![CDATA[]]></prodmeta_side_diamonds1_count>
+		<attr_14k_regular><![CDATA[1040]]></attr_14k_regular>
+		<attr_14k_metal_available><![CDATA[Rose Gold]]></attr_14k_metal_available>
+		<attr_18k_regular><![CDATA[]]></attr_18k_regular>
+		<attr_18k_metal_available><![CDATA[]]></attr_18k_metal_available>
+		<attr_platinum_regular><![CDATA[]]></attr_platinum_regular>
+		<attr_whitegold_platinum_round_default_img><![CDATA[]]></attr_whitegold_platinum_round_default_img>
+		<attr_whitegold_platinum_round_img><![CDATA[]]></attr_whitegold_platinum_round_img>
+		<attr_rosegold_round_default_img><![CDATA[wedding-bands/656b02/shapes/round/656b02-rosegold_round_default.jpg]]></attr_rosegold_round_default_img>
+		<attr_rosegold_round_img><![CDATA[]]></attr_rosegold_round_img>
+		<attr_yellowgold_round_default_img><![CDATA[]]></attr_yellowgold_round_default_img>
+		<attr_yellowgold_round_img><![CDATA[]]></attr_yellowgold_round_img>
+		<attr_whitegold_yellow_round_default_img><![CDATA[]]></attr_whitegold_yellow_round_default_img>
+		<attr_whitegold_yellow_round_img><![CDATA[]]></attr_whitegold_yellow_round_img>
+		<attr_whitegold_rose_round_default_img><![CDATA[]]></attr_whitegold_rose_round_default_img>
+		<attr_whitegold_rose_round_img><![CDATA[]]></attr_whitegold_rose_round_img>
+		<attr_tricolor_round_default_img><![CDATA[]]></attr_tricolor_round_default_img>
+		<attr_tricolor_round_img><![CDATA[]]></attr_tricolor_round_img>
+	</node>
+	<node>
+		<prod_sku><![CDATA[1040]]></prod_sku>
+		<prod_live_url><![CDATA[[prod_name}-[prod_sku]]]></prod_live_url>
+		<prod_name><![CDATA[Men's Domed Wedding Band]]></prod_name>
+		<prod_long_desc><![CDATA[This Dora men's domed wedding band shows off a gorgeous brushed carbon fiber with a contrasting white gold strip running across the center.]]></prod_long_desc>
+		<prod_type><![CDATA[Wedding Bands]]></prod_type>
+		<prod_subcategory><![CDATA[Carbon Fiber Men,White Gold Men,Men Wedding Band]]></prod_subcategory>
+		<prodmeta_section><![CDATA[Mens]]></prodmeta_section>
+		<prodmeta_ship_days><![CDATA[21]]></prodmeta_ship_days>
+		<prodmeta_metal_weight><![CDATA[]]></prodmeta_metal_weight>
+		<prodmeta_side_diamonds_count><![CDATA[]]></prodmeta_side_diamonds_count>
+		<prodmeta_side_diamonds_ctw><![CDATA[]]></prodmeta_side_diamonds_ctw>
+		<prodmeta_side_diamonds_color_clarity><![CDATA[]]></prodmeta_side_diamonds_color_clarity>
+		<prodmeta_side_diamonds1_count><![CDATA[]]></prodmeta_side_diamonds1_count>
+		<attr_14k_regular><![CDATA[1140]]></attr_14k_regular>
+		<attr_14k_metal_available><![CDATA[White Gold]]></attr_14k_metal_available>
+		<attr_18k_regular><![CDATA[]]></attr_18k_regular>
+		<attr_18k_metal_available><![CDATA[]]></attr_18k_metal_available>
+		<attr_platinum_regular><![CDATA[]]></attr_platinum_regular>
+		<attr_whitegold_platinum_round_default_img><![CDATA[wedding-bands/657b00/shapes/round/657b00-whitegold_platinum_round_default.jpg]]></attr_whitegold_platinum_round_default_img>
+		<attr_whitegold_platinum_round_img><![CDATA[]]></attr_whitegold_platinum_round_img>
+		<attr_rosegold_round_default_img><![CDATA[]]></attr_rosegold_round_default_img>
+		<attr_rosegold_round_img><![CDATA[]]></attr_rosegold_round_img>
+		<attr_yellowgold_round_default_img><![CDATA[]]></attr_yellowgold_round_default_img>
+		<attr_yellowgold_round_img><![CDATA[]]></attr_yellowgold_round_img>
+		<attr_whitegold_yellow_round_default_img><![CDATA[]]></attr_whitegold_yellow_round_default_img>
+		<attr_whitegold_yellow_round_img><![CDATA[]]></attr_whitegold_yellow_round_img>
+		<attr_whitegold_rose_round_default_img><![CDATA[]]></attr_whitegold_rose_round_default_img>
+		<attr_whitegold_rose_round_img><![CDATA[]]></attr_whitegold_rose_round_img>
+		<attr_tricolor_round_default_img><![CDATA[]]></attr_tricolor_round_default_img>
+		<attr_tricolor_round_img><![CDATA[]]></attr_tricolor_round_img>
+	</node>
+	<node>
+		<prod_sku><![CDATA[1041]]></prod_sku>
+		<prod_live_url><![CDATA[[prod_name}-[prod_sku]]]></prod_live_url>
+		<prod_name><![CDATA[Simple Black Diamond Wedding Band]]></prod_name>
+		<prod_long_desc><![CDATA[This Dora men's simple black diamond wedding band features a polished slim trim in the middle adorned with 8 black diamonds.]]></prod_long_desc>
+		<prod_type><![CDATA[Wedding Bands]]></prod_type>
+		<prod_subcategory><![CDATA[Black Diamond Men,White Gold Men,Platinum Men,Men Wedding Band]]></prod_subcategory>
+		<prodmeta_section><![CDATA[Mens]]></prodmeta_section>
+		<prodmeta_ship_days><![CDATA[22]]></prodmeta_ship_days>
+		<prodmeta_metal_weight><![CDATA[]]></prodmeta_metal_weight>
+		<prodmeta_side_diamonds_count><![CDATA[]]></prodmeta_side_diamonds_count>
+		<prodmeta_side_diamonds_ctw><![CDATA[]]></prodmeta_side_diamonds_ctw>
+		<prodmeta_side_diamonds_color_clarity><![CDATA[]]></prodmeta_side_diamonds_color_clarity>
+		<prodmeta_side_diamonds1_count><![CDATA[8]]></prodmeta_side_diamonds1_count>
+		<attr_14k_regular><![CDATA[1515]]></attr_14k_regular>
+		<attr_14k_metal_available><![CDATA[White Gold ]]></attr_14k_metal_available>
+		<attr_18k_regular><![CDATA[2065]]></attr_18k_regular>
+		<attr_18k_metal_available><![CDATA[White Gold ]]></attr_18k_metal_available>
+		<attr_platinum_regular><![CDATA[2565]]></attr_platinum_regular>
+		<attr_whitegold_platinum_round_default_img><![CDATA[wedding-bands/664b00/shapes/round/664b00-whitegold_platinum_round_default.jpg]]></attr_whitegold_platinum_round_default_img>
+		<attr_whitegold_platinum_round_img><![CDATA[]]></attr_whitegold_platinum_round_img>
+		<attr_rosegold_round_default_img><![CDATA[]]></attr_rosegold_round_default_img>
+		<attr_rosegold_round_img><![CDATA[]]></attr_rosegold_round_img>
+		<attr_yellowgold_round_default_img><![CDATA[]]></attr_yellowgold_round_default_img>
+		<attr_yellowgold_round_img><![CDATA[]]></attr_yellowgold_round_img>
+		<attr_whitegold_yellow_round_default_img><![CDATA[]]></attr_whitegold_yellow_round_default_img>
+		<attr_whitegold_yellow_round_img><![CDATA[]]></attr_whitegold_yellow_round_img>
+		<attr_whitegold_rose_round_default_img><![CDATA[]]></attr_whitegold_rose_round_default_img>
+		<attr_whitegold_rose_round_img><![CDATA[]]></attr_whitegold_rose_round_img>
+		<attr_tricolor_round_default_img><![CDATA[]]></attr_tricolor_round_default_img>
+		<attr_tricolor_round_img><![CDATA[]]></attr_tricolor_round_img>
+	</node>
+	<node>
+		<prod_sku><![CDATA[1042]]></prod_sku>
+		<prod_live_url><![CDATA[[prod_name}-[prod_sku]]]></prod_live_url>
+		<prod_name><![CDATA[Hammered Black Diamond Wedding Band]]></prod_name>
+		<prod_long_desc><![CDATA[A beautiful Dora men's hammered black diamond wedding band with a stunning hammered finish and black diamonds decorating the center.]]></prod_long_desc>
+		<prod_type><![CDATA[Wedding Bands]]></prod_type>
+		<prod_subcategory><![CDATA[Black Diamond Men,White Gold Men,Men Wedding Band]]></prod_subcategory>
+		<prodmeta_section><![CDATA[Mens]]></prodmeta_section>
+		<prodmeta_ship_days><![CDATA[23]]></prodmeta_ship_days>
+		<prodmeta_metal_weight><![CDATA[]]></prodmeta_metal_weight>
+		<prodmeta_side_diamonds_count><![CDATA[]]></prodmeta_side_diamonds_count>
+		<prodmeta_side_diamonds_ctw><![CDATA[]]></prodmeta_side_diamonds_ctw>
+		<prodmeta_side_diamonds_color_clarity><![CDATA[]]></prodmeta_side_diamonds_color_clarity>
+		<prodmeta_side_diamonds1_count><![CDATA[22]]></prodmeta_side_diamonds1_count>
+		<attr_14k_regular><![CDATA[1750]]></attr_14k_regular>
+		<attr_14k_metal_available><![CDATA[White Gold ]]></attr_14k_metal_available>
+		<attr_18k_regular><![CDATA[2390]]></attr_18k_regular>
+		<attr_18k_metal_available><![CDATA[White Gold ]]></attr_18k_metal_available>
+		<attr_platinum_regular><![CDATA[]]></attr_platinum_regular>
+		<attr_whitegold_platinum_round_default_img><![CDATA[wedding-bands/665b00/shapes/round/665b00-whitegold_platinum_round_default.jpg]]></attr_whitegold_platinum_round_default_img>
+		<attr_whitegold_platinum_round_img><![CDATA[]]></attr_whitegold_platinum_round_img>
+		<attr_rosegold_round_default_img><![CDATA[]]></attr_rosegold_round_default_img>
+		<attr_rosegold_round_img><![CDATA[]]></attr_rosegold_round_img>
+		<attr_yellowgold_round_default_img><![CDATA[]]></attr_yellowgold_round_default_img>
+		<attr_yellowgold_round_img><![CDATA[]]></attr_yellowgold_round_img>
+		<attr_whitegold_yellow_round_default_img><![CDATA[]]></attr_whitegold_yellow_round_default_img>
+		<attr_whitegold_yellow_round_img><![CDATA[]]></attr_whitegold_yellow_round_img>
+		<attr_whitegold_rose_round_default_img><![CDATA[]]></attr_whitegold_rose_round_default_img>
+		<attr_whitegold_rose_round_img><![CDATA[]]></attr_whitegold_rose_round_img>
+		<attr_tricolor_round_default_img><![CDATA[]]></attr_tricolor_round_default_img>
+		<attr_tricolor_round_img><![CDATA[]]></attr_tricolor_round_img>
+	</node>
+	<node>
+		<prod_sku><![CDATA[1043]]></prod_sku>
+		<prod_live_url><![CDATA[[prod_name}-[prod_sku]]]></prod_live_url>
+		<prod_name><![CDATA[Men's Inlay Diamond Wedding Band]]></prod_name>
+		<prod_long_desc><![CDATA[A beautiful Dora men's inlay diamond wedding band featuring carbon fiber, white gold and a row of gorgeous diamonds in the center.]]></prod_long_desc>
+		<prod_type><![CDATA[Wedding Bands]]></prod_type>
+		<prod_subcategory><![CDATA[Carbon Fiber Men,White Gold Men,Men Wedding Band]]></prod_subcategory>
+		<prodmeta_section><![CDATA[Mens]]></prodmeta_section>
+		<prodmeta_ship_days><![CDATA[24]]></prodmeta_ship_days>
+		<prodmeta_metal_weight><![CDATA[]]></prodmeta_metal_weight>
+		<prodmeta_side_diamonds_count><![CDATA[7]]></prodmeta_side_diamonds_count>
+		<prodmeta_side_diamonds_ctw><![CDATA[0.119ct.]]></prodmeta_side_diamonds_ctw>
+		<prodmeta_side_diamonds_color_clarity><![CDATA[F/G - VS/SI1]]></prodmeta_side_diamonds_color_clarity>
+		<prodmeta_side_diamonds1_count><![CDATA[]]></prodmeta_side_diamonds1_count>
+		<attr_14k_regular><![CDATA[1575]]></attr_14k_regular>
+		<attr_14k_metal_available><![CDATA[White Gold]]></attr_14k_metal_available>
+		<attr_18k_regular><![CDATA[]]></attr_18k_regular>
+		<attr_18k_metal_available><![CDATA[]]></attr_18k_metal_available>
+		<attr_platinum_regular><![CDATA[]]></attr_platinum_regular>
+		<attr_whitegold_platinum_round_default_img><![CDATA[wedding-bands/667b00/shapes/round/667b00-whitegold_platinum_round_default.jpg]]></attr_whitegold_platinum_round_default_img>
+		<attr_whitegold_platinum_round_img><![CDATA[]]></attr_whitegold_platinum_round_img>
+		<attr_rosegold_round_default_img><![CDATA[]]></attr_rosegold_round_default_img>
+		<attr_rosegold_round_img><![CDATA[]]></attr_rosegold_round_img>
+		<attr_yellowgold_round_default_img><![CDATA[]]></attr_yellowgold_round_default_img>
+		<attr_yellowgold_round_img><![CDATA[]]></attr_yellowgold_round_img>
+		<attr_whitegold_yellow_round_default_img><![CDATA[]]></attr_whitegold_yellow_round_default_img>
+		<attr_whitegold_yellow_round_img><![CDATA[]]></attr_whitegold_yellow_round_img>
+		<attr_whitegold_rose_round_default_img><![CDATA[]]></attr_whitegold_rose_round_default_img>
+		<attr_whitegold_rose_round_img><![CDATA[]]></attr_whitegold_rose_round_img>
+		<attr_tricolor_round_default_img><![CDATA[]]></attr_tricolor_round_default_img>
+		<attr_tricolor_round_img><![CDATA[]]></attr_tricolor_round_img>
+	</node>
+	<node>
+		<prod_sku><![CDATA[1044]]></prod_sku>
+		<prod_live_url><![CDATA[[prod_name}-[prod_sku]]]></prod_live_url>
+		<prod_name><![CDATA[Men's Black Diamond Wedding Band]]></prod_name>
+		<prod_long_desc><![CDATA[A unique Dora men's black diamond wedding band featuring carbon fiber with a row of 5 stunning black diamonds front and center.]]></prod_long_desc>
+		<prod_type><![CDATA[Wedding Bands]]></prod_type>
+		<prod_subcategory><![CDATA[Carbon Fiber Men,White Gold Men,Men Wedding Band,Black Diamond Men]]></prod_subcategory>
+		<prodmeta_section><![CDATA[Mens]]></prodmeta_section>
+		<prodmeta_ship_days><![CDATA[25]]></prodmeta_ship_days>
+		<prodmeta_metal_weight><![CDATA[]]></prodmeta_metal_weight>
+		<prodmeta_side_diamonds_count><![CDATA[]]></prodmeta_side_diamonds_count>
+		<prodmeta_side_diamonds_ctw><![CDATA[]]></prodmeta_side_diamonds_ctw>
+		<prodmeta_side_diamonds_color_clarity><![CDATA[]]></prodmeta_side_diamonds_color_clarity>
+		<prodmeta_side_diamonds1_count><![CDATA[5]]></prodmeta_side_diamonds1_count>
+		<attr_14k_regular><![CDATA[1240]]></attr_14k_regular>
+		<attr_14k_metal_available><![CDATA[White Gold]]></attr_14k_metal_available>
+		<attr_18k_regular><![CDATA[]]></attr_18k_regular>
+		<attr_18k_metal_available><![CDATA[]]></attr_18k_metal_available>
+		<attr_platinum_regular><![CDATA[]]></attr_platinum_regular>
+		<attr_whitegold_platinum_round_default_img><![CDATA[wedding-bands/668b00/shapes/round/668b00-whitegold_platinum_round_default.jpg]]></attr_whitegold_platinum_round_default_img>
+		<attr_whitegold_platinum_round_img><![CDATA[]]></attr_whitegold_platinum_round_img>
+		<attr_rosegold_round_default_img><![CDATA[]]></attr_rosegold_round_default_img>
+		<attr_rosegold_round_img><![CDATA[]]></attr_rosegold_round_img>
+		<attr_yellowgold_round_default_img><![CDATA[]]></attr_yellowgold_round_default_img>
+		<attr_yellowgold_round_img><![CDATA[]]></attr_yellowgold_round_img>
+		<attr_whitegold_yellow_round_default_img><![CDATA[]]></attr_whitegold_yellow_round_default_img>
+		<attr_whitegold_yellow_round_img><![CDATA[]]></attr_whitegold_yellow_round_img>
+		<attr_whitegold_rose_round_default_img><![CDATA[]]></attr_whitegold_rose_round_default_img>
+		<attr_whitegold_rose_round_img><![CDATA[]]></attr_whitegold_rose_round_img>
+		<attr_tricolor_round_default_img><![CDATA[]]></attr_tricolor_round_default_img>
+		<attr_tricolor_round_img><![CDATA[]]></attr_tricolor_round_img>
+	</node>
+	<node>
+		<prod_sku><![CDATA[1045]]></prod_sku>
+		<prod_live_url><![CDATA[[prod_name}-[prod_sku]]]></prod_live_url>
+		<prod_name><![CDATA[Men's Black Diamond Trim Wedding Band]]></prod_name>
+		<prod_long_desc><![CDATA[This captivating Dora men's black diamond trim wedding band features carbon fiber and a white gold trim with 5 gorgeous black diamonds.]]></prod_long_desc>
+		<prod_type><![CDATA[Wedding Bands]]></prod_type>
+		<prod_subcategory><![CDATA[Carbon Fiber Men,White Gold Men,Men Wedding Band,Black Diamond Men]]></prod_subcategory>
+		<prodmeta_section><![CDATA[Mens]]></prodmeta_section>
+		<prodmeta_ship_days><![CDATA[10]]></prodmeta_ship_days>
+		<prodmeta_metal_weight><![CDATA[]]></prodmeta_metal_weight>
+		<prodmeta_side_diamonds_count><![CDATA[]]></prodmeta_side_diamonds_count>
+		<prodmeta_side_diamonds_ctw><![CDATA[]]></prodmeta_side_diamonds_ctw>
+		<prodmeta_side_diamonds_color_clarity><![CDATA[]]></prodmeta_side_diamonds_color_clarity>
+		<prodmeta_side_diamonds1_count><![CDATA[5]]></prodmeta_side_diamonds1_count>
+		<attr_14k_regular><![CDATA[1300]]></attr_14k_regular>
+		<attr_14k_metal_available><![CDATA[White Gold]]></attr_14k_metal_available>
+		<attr_18k_regular><![CDATA[]]></attr_18k_regular>
+		<attr_18k_metal_available><![CDATA[]]></attr_18k_metal_available>
+		<attr_platinum_regular><![CDATA[]]></attr_platinum_regular>
+		<attr_whitegold_platinum_round_default_img><![CDATA[wedding-bands/669b00/shapes/round/669b00-whitegold_platinum_round_default.jpg]]></attr_whitegold_platinum_round_default_img>
+		<attr_whitegold_platinum_round_img><![CDATA[]]></attr_whitegold_platinum_round_img>
+		<attr_rosegold_round_default_img><![CDATA[]]></attr_rosegold_round_default_img>
+		<attr_rosegold_round_img><![CDATA[]]></attr_rosegold_round_img>
+		<attr_yellowgold_round_default_img><![CDATA[]]></attr_yellowgold_round_default_img>
+		<attr_yellowgold_round_img><![CDATA[]]></attr_yellowgold_round_img>
+		<attr_whitegold_yellow_round_default_img><![CDATA[]]></attr_whitegold_yellow_round_default_img>
+		<attr_whitegold_yellow_round_img><![CDATA[]]></attr_whitegold_yellow_round_img>
+		<attr_whitegold_rose_round_default_img><![CDATA[]]></attr_whitegold_rose_round_default_img>
+		<attr_whitegold_rose_round_img><![CDATA[]]></attr_whitegold_rose_round_img>
+		<attr_tricolor_round_default_img><![CDATA[]]></attr_tricolor_round_default_img>
+		<attr_tricolor_round_img><![CDATA[]]></attr_tricolor_round_img>
+	</node>
+	<node>
+		<prod_sku><![CDATA[1046]]></prod_sku>
+		<prod_live_url><![CDATA[[prod_name}-[prod_sku]]]></prod_live_url>
+		<prod_name><![CDATA[Men's Yellow Gold And Black Diamond Wedding Band]]></prod_name>
+		<prod_long_desc><![CDATA[This Dora men's yellow gold and black diamond wedding band is made with carbon fiber, 14k yellow gold and adorned with columns of black diamonds for a look of sheer elegance.]]></prod_long_desc>
+		<prod_type><![CDATA[Wedding Bands]]></prod_type>
+		<prod_subcategory><![CDATA[Carbon Fiber Men,Yellow Gold Men,Men Wedding Band,Black Diamond Men]]></prod_subcategory>
+		<prodmeta_section><![CDATA[Mens]]></prodmeta_section>
+		<prodmeta_ship_days><![CDATA[11]]></prodmeta_ship_days>
+		<prodmeta_metal_weight><![CDATA[]]></prodmeta_metal_weight>
+		<prodmeta_side_diamonds_count><![CDATA[]]></prodmeta_side_diamonds_count>
+		<prodmeta_side_diamonds_ctw><![CDATA[]]></prodmeta_side_diamonds_ctw>
+		<prodmeta_side_diamonds_color_clarity><![CDATA[]]></prodmeta_side_diamonds_color_clarity>
+		<prodmeta_side_diamonds1_count><![CDATA[15]]></prodmeta_side_diamonds1_count>
+		<attr_14k_regular><![CDATA[1240]]></attr_14k_regular>
+		<attr_14k_metal_available><![CDATA[Yellow Gold]]></attr_14k_metal_available>
+		<attr_18k_regular><![CDATA[]]></attr_18k_regular>
+		<attr_18k_metal_available><![CDATA[]]></attr_18k_metal_available>
+		<attr_platinum_regular><![CDATA[]]></attr_platinum_regular>
+		<attr_whitegold_platinum_round_default_img><![CDATA[]]></attr_whitegold_platinum_round_default_img>
+		<attr_whitegold_platinum_round_img><![CDATA[]]></attr_whitegold_platinum_round_img>
+		<attr_rosegold_round_default_img><![CDATA[]]></attr_rosegold_round_default_img>
+		<attr_rosegold_round_img><![CDATA[]]></attr_rosegold_round_img>
+		<attr_yellowgold_round_default_img><![CDATA[wedding-bands/670b00/shapes/round/670b00-yellowgold_round_default.jpg]]></attr_yellowgold_round_default_img>
+		<attr_yellowgold_round_img><![CDATA[]]></attr_yellowgold_round_img>
+		<attr_whitegold_yellow_round_default_img><![CDATA[]]></attr_whitegold_yellow_round_default_img>
+		<attr_whitegold_yellow_round_img><![CDATA[]]></attr_whitegold_yellow_round_img>
+		<attr_whitegold_rose_round_default_img><![CDATA[]]></attr_whitegold_rose_round_default_img>
+		<attr_whitegold_rose_round_img><![CDATA[]]></attr_whitegold_rose_round_img>
+		<attr_tricolor_round_default_img><![CDATA[]]></attr_tricolor_round_default_img>
+		<attr_tricolor_round_img><![CDATA[]]></attr_tricolor_round_img>
+	</node>
+	<node>
+		<prod_sku><![CDATA[1047]]></prod_sku>
+		<prod_live_url><![CDATA[[prod_name}-[prod_sku]]]></prod_live_url>
+		<prod_name><![CDATA[Men's Asymmetrical Wedding Band]]></prod_name>
+		<prod_long_desc><![CDATA[A classy Dora men's asymmetrical wedding band with brushed carbon fiber and white gold.]]></prod_long_desc>
+		<prod_type><![CDATA[Wedding Bands]]></prod_type>
+		<prod_subcategory><![CDATA[Carbon Fiber Men,White Gold Men,Men Wedding Band]]></prod_subcategory>
+		<prodmeta_section><![CDATA[Mens]]></prodmeta_section>
+		<prodmeta_ship_days><![CDATA[12]]></prodmeta_ship_days>
+		<prodmeta_metal_weight><![CDATA[]]></prodmeta_metal_weight>
+		<prodmeta_side_diamonds_count><![CDATA[]]></prodmeta_side_diamonds_count>
+		<prodmeta_side_diamonds_ctw><![CDATA[]]></prodmeta_side_diamonds_ctw>
+		<prodmeta_side_diamonds_color_clarity><![CDATA[]]></prodmeta_side_diamonds_color_clarity>
+		<prodmeta_side_diamonds1_count><![CDATA[]]></prodmeta_side_diamonds1_count>
+		<attr_14k_regular><![CDATA[1250]]></attr_14k_regular>
+		<attr_14k_metal_available><![CDATA[White Gold]]></attr_14k_metal_available>
+		<attr_18k_regular><![CDATA[]]></attr_18k_regular>
+		<attr_18k_metal_available><![CDATA[]]></attr_18k_metal_available>
+		<attr_platinum_regular><![CDATA[]]></attr_platinum_regular>
+		<attr_whitegold_platinum_round_default_img><![CDATA[wedding-bands/671b00/shapes/round/671b00-whitegold_platinum_round_default.jpg]]></attr_whitegold_platinum_round_default_img>
+		<attr_whitegold_platinum_round_img><![CDATA[]]></attr_whitegold_platinum_round_img>
+		<attr_rosegold_round_default_img><![CDATA[]]></attr_rosegold_round_default_img>
+		<attr_rosegold_round_img><![CDATA[]]></attr_rosegold_round_img>
+		<attr_yellowgold_round_default_img><![CDATA[]]></attr_yellowgold_round_default_img>
+		<attr_yellowgold_round_img><![CDATA[]]></attr_yellowgold_round_img>
+		<attr_whitegold_yellow_round_default_img><![CDATA[]]></attr_whitegold_yellow_round_default_img>
+		<attr_whitegold_yellow_round_img><![CDATA[]]></attr_whitegold_yellow_round_img>
+		<attr_whitegold_rose_round_default_img><![CDATA[]]></attr_whitegold_rose_round_default_img>
+		<attr_whitegold_rose_round_img><![CDATA[]]></attr_whitegold_rose_round_img>
+		<attr_tricolor_round_default_img><![CDATA[]]></attr_tricolor_round_default_img>
+		<attr_tricolor_round_img><![CDATA[]]></attr_tricolor_round_img>
+	</node>
+	<node>
+		<prod_sku><![CDATA[1048]]></prod_sku>
+		<prod_live_url><![CDATA[[prod_name}-[prod_sku]]]></prod_live_url>
+		<prod_name><![CDATA[Unique Ornate Wedding Band]]></prod_name>
+		<prod_long_desc><![CDATA[This unique ornate wedding band features a beautiful crossing center section adorned with channel set diamonds, while pave set diamonds grace the side ridges for a look of pure sophistication.]]></prod_long_desc>
+		<prod_type><![CDATA[Wedding Bands]]></prod_type>
+		<prod_subcategory><![CDATA[Diamond Women,White Gold Women,Tri Color Women,Platinum Women,Women Wedding Band]]></prod_subcategory>
+		<prodmeta_section><![CDATA[Womens]]></prodmeta_section>
+		<prodmeta_ship_days><![CDATA[13]]></prodmeta_ship_days>
+		<prodmeta_metal_weight><![CDATA[9.8 Grams]]></prodmeta_metal_weight>
+		<prodmeta_side_diamonds_count><![CDATA[52]]></prodmeta_side_diamonds_count>
+		<prodmeta_side_diamonds_ctw><![CDATA[1.07ct.]]></prodmeta_side_diamonds_ctw>
+		<prodmeta_side_diamonds_color_clarity><![CDATA[F/G - VS/SI1]]></prodmeta_side_diamonds_color_clarity>
+		<prodmeta_side_diamonds1_count><![CDATA[]]></prodmeta_side_diamonds1_count>
+		<attr_14k_regular><![CDATA[5510]]></attr_14k_regular>
+		<attr_14k_metal_available><![CDATA[White Gold, Tri Color]]></attr_14k_metal_available>
+		<attr_18k_regular><![CDATA[6335]]></attr_18k_regular>
+		<attr_18k_metal_available><![CDATA[White Gold, Tri Color]]></attr_18k_metal_available>
+		<attr_platinum_regular><![CDATA[7080]]></attr_platinum_regular>
+		<attr_whitegold_platinum_round_default_img><![CDATA[wedding-bands/6723/shapes/round/6723-whitegold_platinum_round_default.jpg]]></attr_whitegold_platinum_round_default_img>
+		<attr_whitegold_platinum_round_img><![CDATA[wedding-bands/6723/shapes/round/6723-whitegold_platinum_round_1.jpg]]></attr_whitegold_platinum_round_img>
+		<attr_rosegold_round_default_img><![CDATA[]]></attr_rosegold_round_default_img>
+		<attr_rosegold_round_img><![CDATA[]]></attr_rosegold_round_img>
+		<attr_yellowgold_round_default_img><![CDATA[]]></attr_yellowgold_round_default_img>
+		<attr_yellowgold_round_img><![CDATA[]]></attr_yellowgold_round_img>
+		<attr_whitegold_yellow_round_default_img><![CDATA[]]></attr_whitegold_yellow_round_default_img>
+		<attr_whitegold_yellow_round_img><![CDATA[]]></attr_whitegold_yellow_round_img>
+		<attr_whitegold_rose_round_default_img><![CDATA[]]></attr_whitegold_rose_round_default_img>
+		<attr_whitegold_rose_round_img><![CDATA[]]></attr_whitegold_rose_round_img>
+		<attr_tricolor_round_default_img><![CDATA[wedding-bands/6723/shapes/round/6723-tricolor_round_default.jpg]]></attr_tricolor_round_default_img>
+		<attr_tricolor_round_img><![CDATA[wedding-bands/6723/shapes/round/6723-tricolor_round_1.jpg]]></attr_tricolor_round_img>
+	</node>
+	<node>
+		<prod_sku><![CDATA[1049]]></prod_sku>
+		<prod_live_url><![CDATA[[prod_name}-[prod_sku]]]></prod_live_url>
+		<prod_name><![CDATA[Mens Unique Diamond Wedding Band]]></prod_name>
+		<prod_long_desc><![CDATA[This unique mens diamond wedding band features two shoulders that meet at the center with a channel set round diamond for a distinctively different look.]]></prod_long_desc>
+		<prod_type><![CDATA[Wedding Bands]]></prod_type>
+		<prod_subcategory><![CDATA[Diamond Men,White Gold Men,Two Tone Men,Platinum Men,Men Wedding Band]]></prod_subcategory>
+		<prodmeta_section><![CDATA[Mens]]></prodmeta_section>
+		<prodmeta_ship_days><![CDATA[14]]></prodmeta_ship_days>
+		<prodmeta_metal_weight><![CDATA[15 Grams]]></prodmeta_metal_weight>
+		<prodmeta_side_diamonds_count><![CDATA[1]]></prodmeta_side_diamonds_count>
+		<prodmeta_side_diamonds_ctw><![CDATA[0.13ct.]]></prodmeta_side_diamonds_ctw>
+		<prodmeta_side_diamonds_color_clarity><![CDATA[F/G - VS/SI1]]></prodmeta_side_diamonds_color_clarity>
+		<prodmeta_side_diamonds1_count><![CDATA[]]></prodmeta_side_diamonds1_count>
+		<attr_14k_regular><![CDATA[2670]]></attr_14k_regular>
+		<attr_14k_metal_available><![CDATA[White Gold, WRG, WYG]]></attr_14k_metal_available>
+		<attr_18k_regular><![CDATA[3935]]></attr_18k_regular>
+		<attr_18k_metal_available><![CDATA[White Gold, WRG, WYG]]></attr_18k_metal_available>
+		<attr_platinum_regular><![CDATA[5080]]></attr_platinum_regular>
+		<attr_whitegold_platinum_round_default_img><![CDATA[wedding-bands/6842g/shapes/round/6842g-whitegold_platinum_round_default.jpg]]></attr_whitegold_platinum_round_default_img>
+		<attr_whitegold_platinum_round_img><![CDATA[]]></attr_whitegold_platinum_round_img>
+		<attr_rosegold_round_default_img><![CDATA[]]></attr_rosegold_round_default_img>
+		<attr_rosegold_round_img><![CDATA[]]></attr_rosegold_round_img>
+		<attr_yellowgold_round_default_img><![CDATA[]]></attr_yellowgold_round_default_img>
+		<attr_yellowgold_round_img><![CDATA[]]></attr_yellowgold_round_img>
+		<attr_whitegold_yellow_round_default_img><![CDATA[wedding-bands/6842g/shapes/round/6842g-whitegold_yellow_round_default.jpg]]></attr_whitegold_yellow_round_default_img>
+		<attr_whitegold_yellow_round_img><![CDATA[]]></attr_whitegold_yellow_round_img>
+		<attr_whitegold_rose_round_default_img><![CDATA[wedding-bands/6842g/shapes/round/6842g-whitegold_rose_round_default.jpg]]></attr_whitegold_rose_round_default_img>
+		<attr_whitegold_rose_round_img><![CDATA[]]></attr_whitegold_rose_round_img>
+		<attr_tricolor_round_default_img><![CDATA[]]></attr_tricolor_round_default_img>
+		<attr_tricolor_round_img><![CDATA[]]></attr_tricolor_round_img>
+	</node>
+	<node>
+		<prod_sku><![CDATA[1050]]></prod_sku>
+		<prod_live_url><![CDATA[[prod_name}-[prod_sku]]]></prod_live_url>
+		<prod_name><![CDATA[Mens Open Ridge Diamond Wedding Band]]></prod_name>
+		<prod_long_desc><![CDATA[This mens open ridge diamond wedding band features a comfort fit shank with beveled edges and two channel set round diamonds.]]></prod_long_desc>
+		<prod_type><![CDATA[Wedding Bands]]></prod_type>
+		<prod_subcategory><![CDATA[Diamond Men,White Gold Men,Platinum Men,Men Wedding Band]]></prod_subcategory>
+		<prodmeta_section><![CDATA[Mens]]></prodmeta_section>
+		<prodmeta_ship_days><![CDATA[15]]></prodmeta_ship_days>
+		<prodmeta_metal_weight><![CDATA[14.3 Grams]]></prodmeta_metal_weight>
+		<prodmeta_side_diamonds_count><![CDATA[2]]></prodmeta_side_diamonds_count>
+		<prodmeta_side_diamonds_ctw><![CDATA[0.22ct.]]></prodmeta_side_diamonds_ctw>
+		<prodmeta_side_diamonds_color_clarity><![CDATA[F/G - VS/SI1]]></prodmeta_side_diamonds_color_clarity>
+		<prodmeta_side_diamonds1_count><![CDATA[]]></prodmeta_side_diamonds1_count>
+		<attr_14k_regular><![CDATA[2810]]></attr_14k_regular>
+		<attr_14k_metal_available><![CDATA[White Gold ]]></attr_14k_metal_available>
+		<attr_18k_regular><![CDATA[4020]]></attr_18k_regular>
+		<attr_18k_metal_available><![CDATA[White Gold ]]></attr_18k_metal_available>
+		<attr_platinum_regular><![CDATA[5110]]></attr_platinum_regular>
+		<attr_whitegold_platinum_round_default_img><![CDATA[wedding-bands/6921g/shapes/round/6921g-whitegold_platinum_round_default.jpg]]></attr_whitegold_platinum_round_default_img>
+		<attr_whitegold_platinum_round_img><![CDATA[]]></attr_whitegold_platinum_round_img>
+		<attr_rosegold_round_default_img><![CDATA[]]></attr_rosegold_round_default_img>
+		<attr_rosegold_round_img><![CDATA[]]></attr_rosegold_round_img>
+		<attr_yellowgold_round_default_img><![CDATA[]]></attr_yellowgold_round_default_img>
+		<attr_yellowgold_round_img><![CDATA[]]></attr_yellowgold_round_img>
+		<attr_whitegold_yellow_round_default_img><![CDATA[]]></attr_whitegold_yellow_round_default_img>
+		<attr_whitegold_yellow_round_img><![CDATA[]]></attr_whitegold_yellow_round_img>
+		<attr_whitegold_rose_round_default_img><![CDATA[]]></attr_whitegold_rose_round_default_img>
+		<attr_whitegold_rose_round_img><![CDATA[]]></attr_whitegold_rose_round_img>
+		<attr_tricolor_round_default_img><![CDATA[]]></attr_tricolor_round_default_img>
+		<attr_tricolor_round_img><![CDATA[]]></attr_tricolor_round_img>
+	</node>
+	<node>
+		<prod_sku><![CDATA[1051]]></prod_sku>
+		<prod_live_url><![CDATA[[prod_name}-[prod_sku]]]></prod_live_url>
+		<prod_name><![CDATA[Mens Inlay Wedding Band]]></prod_name>
+		<prod_long_desc><![CDATA[This mens inlay wedding band features a comfort fit shank with a burnish set round diamond and an inlay accenting the overall design.]]></prod_long_desc>
+		<prod_type><![CDATA[Wedding Bands]]></prod_type>
+		<prod_subcategory><![CDATA[Diamond Men,White Gold Men,Two Tone Men,Platinum Men,Men Wedding Band]]></prod_subcategory>
+		<prodmeta_section><![CDATA[Mens]]></prodmeta_section>
+		<prodmeta_ship_days><![CDATA[16]]></prodmeta_ship_days>
+		<prodmeta_metal_weight><![CDATA[15.3 Grams]]></prodmeta_metal_weight>
+		<prodmeta_side_diamonds_count><![CDATA[1]]></prodmeta_side_diamonds_count>
+		<prodmeta_side_diamonds_ctw><![CDATA[0.20ct.]]></prodmeta_side_diamonds_ctw>
+		<prodmeta_side_diamonds_color_clarity><![CDATA[F/G - VS/SI1]]></prodmeta_side_diamonds_color_clarity>
+		<prodmeta_side_diamonds1_count><![CDATA[]]></prodmeta_side_diamonds1_count>
+		<attr_14k_regular><![CDATA[3085]]></attr_14k_regular>
+		<attr_14k_metal_available><![CDATA[White Gold, WRG, WYG]]></attr_14k_metal_available>
+		<attr_18k_regular><![CDATA[4380]]></attr_18k_regular>
+		<attr_18k_metal_available><![CDATA[White Gold, WRG, WYG]]></attr_18k_metal_available>
+		<attr_platinum_regular><![CDATA[5545]]></attr_platinum_regular>
+		<attr_whitegold_platinum_round_default_img><![CDATA[wedding-bands/6923g/shapes/round/6923g-whitegold_platinum_round_default.jpg]]></attr_whitegold_platinum_round_default_img>
+		<attr_whitegold_platinum_round_img><![CDATA[]]></attr_whitegold_platinum_round_img>
+		<attr_rosegold_round_default_img><![CDATA[]]></attr_rosegold_round_default_img>
+		<attr_rosegold_round_img><![CDATA[]]></attr_rosegold_round_img>
+		<attr_yellowgold_round_default_img><![CDATA[]]></attr_yellowgold_round_default_img>
+		<attr_yellowgold_round_img><![CDATA[]]></attr_yellowgold_round_img>
+		<attr_whitegold_yellow_round_default_img><![CDATA[wedding-bands/6923g/shapes/round/6923g-whitegold_yellow_round_default.jpg]]></attr_whitegold_yellow_round_default_img>
+		<attr_whitegold_yellow_round_img><![CDATA[]]></attr_whitegold_yellow_round_img>
+		<attr_whitegold_rose_round_default_img><![CDATA[wedding-bands/6923g/shapes/round/6923g-whitegold_rose_round_default.jpg]]></attr_whitegold_rose_round_default_img>
+		<attr_whitegold_rose_round_img><![CDATA[]]></attr_whitegold_rose_round_img>
+		<attr_tricolor_round_default_img><![CDATA[]]></attr_tricolor_round_default_img>
+		<attr_tricolor_round_img><![CDATA[]]></attr_tricolor_round_img>
+	</node>
+	<node>
+		<prod_sku><![CDATA[1052]]></prod_sku>
+		<prod_live_url><![CDATA[[prod_name}-[prod_sku]]]></prod_live_url>
+		<prod_name><![CDATA[Criss Cross Wedding Band]]></prod_name>
+		<prod_long_desc><![CDATA[This criss cross wedding band features three bands artfully overlapping over the shoulders with pave set diamonds and a milgrain finish on one of them.]]></prod_long_desc>
+		<prod_type><![CDATA[Wedding Bands]]></prod_type>
+		<prod_subcategory><![CDATA[Diamond Women,White Gold Women,Two Tone Women,Tri Color Women,Platinum Women,Women Wedding Band]]></prod_subcategory>
+		<prodmeta_section><![CDATA[Womens]]></prodmeta_section>
+		<prodmeta_ship_days><![CDATA[17]]></prodmeta_ship_days>
+		<prodmeta_metal_weight><![CDATA[6.2 Grams]]></prodmeta_metal_weight>
+		<prodmeta_side_diamonds_count><![CDATA[24]]></prodmeta_side_diamonds_count>
+		<prodmeta_side_diamonds_ctw><![CDATA[0.24ct.]]></prodmeta_side_diamonds_ctw>
+		<prodmeta_side_diamonds_color_clarity><![CDATA[F/G - VS/SI1]]></prodmeta_side_diamonds_color_clarity>
+		<prodmeta_side_diamonds1_count><![CDATA[]]></prodmeta_side_diamonds1_count>
+		<attr_14k_regular><![CDATA[2065]]></attr_14k_regular>
+		<attr_14k_metal_available><![CDATA[White Gold, WRG, WYG, Tri Color]]></attr_14k_metal_available>
+		<attr_18k_regular><![CDATA[2590]]></attr_18k_regular>
+		<attr_18k_metal_available><![CDATA[White Gold, WRG, WYG, Tri Color]]></attr_18k_metal_available>
+		<attr_platinum_regular><![CDATA[3060]]></attr_platinum_regular>
+		<attr_whitegold_platinum_round_default_img><![CDATA[wedding-bands/6950/shapes/round/6950-whitegold_platinum_round_default.jpg]]></attr_whitegold_platinum_round_default_img>
+		<attr_whitegold_platinum_round_img><![CDATA[wedding-bands/6950/shapes/round/6950-whitegold_platinum_round_1.jpg,wedding-bands/6950/shapes/round/6950-whitegold_platinum_round_2.jpg]]></attr_whitegold_platinum_round_img>
+		<attr_rosegold_round_default_img><![CDATA[]]></attr_rosegold_round_default_img>
+		<attr_rosegold_round_img><![CDATA[]]></attr_rosegold_round_img>
+		<attr_yellowgold_round_default_img><![CDATA[]]></attr_yellowgold_round_default_img>
+		<attr_yellowgold_round_img><![CDATA[]]></attr_yellowgold_round_img>
+		<attr_whitegold_yellow_round_default_img><![CDATA[wedding-bands/6950/shapes/round/6950-whitegold_yellow_round_default.jpg]]></attr_whitegold_yellow_round_default_img>
+		<attr_whitegold_yellow_round_img><![CDATA[]]></attr_whitegold_yellow_round_img>
+		<attr_whitegold_rose_round_default_img><![CDATA[wedding-bands/6950/shapes/round/6950-whitegold_rose_round_default.jpg]]></attr_whitegold_rose_round_default_img>
+		<attr_whitegold_rose_round_img><![CDATA[]]></attr_whitegold_rose_round_img>
+		<attr_tricolor_round_default_img><![CDATA[wedding-bands/6950/shapes/round/6950-tricolor_round_default.jpg]]></attr_tricolor_round_default_img>
+		<attr_tricolor_round_img><![CDATA[]]></attr_tricolor_round_img>
+	</node>
+	<node>
+		<prod_sku><![CDATA[1053]]></prod_sku>
+		<prod_live_url><![CDATA[[prod_name}-[prod_sku]]]></prod_live_url>
+		<prod_name><![CDATA[Criss Cross Black Diamond Accent Wedding Band]]></prod_name>
+		<prod_long_desc><![CDATA[This criss cross black diamond accent wedding band features three bands artfully overlapping over the shoulders with pave set black and white diamonds and a milgrain finish on two of them.]]></prod_long_desc>
+		<prod_type><![CDATA[Wedding Bands]]></prod_type>
+		<prod_subcategory><![CDATA[Black Diamond Women,White Gold Women,Platinum Women,Women Wedding Band]]></prod_subcategory>
+		<prodmeta_section><![CDATA[Womens]]></prodmeta_section>
+		<prodmeta_ship_days><![CDATA[18]]></prodmeta_ship_days>
+		<prodmeta_metal_weight><![CDATA[6.2 Grams]]></prodmeta_metal_weight>
+		<prodmeta_side_diamonds_count><![CDATA[24]]></prodmeta_side_diamonds_count>
+		<prodmeta_side_diamonds_ctw><![CDATA[0.24ct.]]></prodmeta_side_diamonds_ctw>
+		<prodmeta_side_diamonds_color_clarity><![CDATA[F/G - VS/SI1]]></prodmeta_side_diamonds_color_clarity>
+		<prodmeta_side_diamonds1_count><![CDATA[24]]></prodmeta_side_diamonds1_count>
+		<attr_14k_regular><![CDATA[2860]]></attr_14k_regular>
+		<attr_14k_metal_available><![CDATA[White Gold]]></attr_14k_metal_available>
+		<attr_18k_regular><![CDATA[3380]]></attr_18k_regular>
+		<attr_18k_metal_available><![CDATA[White Gold]]></attr_18k_metal_available>
+		<attr_platinum_regular><![CDATA[3855]]></attr_platinum_regular>
+		<attr_whitegold_platinum_round_default_img><![CDATA[wedding-bands/6950lbk/shapes/round/6950lbk-whitegold_platinum_round_default.jpg]]></attr_whitegold_platinum_round_default_img>
+		<attr_whitegold_platinum_round_img><![CDATA[]]></attr_whitegold_platinum_round_img>
+		<attr_rosegold_round_default_img><![CDATA[]]></attr_rosegold_round_default_img>
+		<attr_rosegold_round_img><![CDATA[]]></attr_rosegold_round_img>
+		<attr_yellowgold_round_default_img><![CDATA[]]></attr_yellowgold_round_default_img>
+		<attr_yellowgold_round_img><![CDATA[]]></attr_yellowgold_round_img>
+		<attr_whitegold_yellow_round_default_img><![CDATA[]]></attr_whitegold_yellow_round_default_img>
+		<attr_whitegold_yellow_round_img><![CDATA[]]></attr_whitegold_yellow_round_img>
+		<attr_whitegold_rose_round_default_img><![CDATA[]]></attr_whitegold_rose_round_default_img>
+		<attr_whitegold_rose_round_img><![CDATA[]]></attr_whitegold_rose_round_img>
+		<attr_tricolor_round_default_img><![CDATA[]]></attr_tricolor_round_default_img>
+		<attr_tricolor_round_img><![CDATA[]]></attr_tricolor_round_img>
+	</node>
+	<node>
+		<prod_sku><![CDATA[1054]]></prod_sku>
+		<prod_live_url><![CDATA[[prod_name}-[prod_sku]]]></prod_live_url>
+		<prod_name><![CDATA[Unique Trim Wedding Band]]></prod_name>
+		<prod_long_desc><![CDATA[This unique trim wedding band features an open shank channel set with 3 diamonds and an accent curving trim adorned with pave set diamonds.]]></prod_long_desc>
+		<prod_type><![CDATA[Wedding Bands]]></prod_type>
+		<prod_subcategory><![CDATA[Tri Color Women,White Gold Women,Platinum Women,Women Wedding Band]]></prod_subcategory>
+		<prodmeta_section><![CDATA[Womens]]></prodmeta_section>
+		<prodmeta_ship_days><![CDATA[19]]></prodmeta_ship_days>
+		<prodmeta_metal_weight><![CDATA[10.1 Grams]]></prodmeta_metal_weight>
+		<prodmeta_side_diamonds_count><![CDATA[34]]></prodmeta_side_diamonds_count>
+		<prodmeta_side_diamonds_ctw><![CDATA[0.84ct.]]></prodmeta_side_diamonds_ctw>
+		<prodmeta_side_diamonds_color_clarity><![CDATA[F/G - VS/SI1]]></prodmeta_side_diamonds_color_clarity>
+		<prodmeta_side_diamonds1_count><![CDATA[]]></prodmeta_side_diamonds1_count>
+		<attr_14k_regular><![CDATA[5225]]></attr_14k_regular>
+		<attr_14k_metal_available><![CDATA[White Gold, Tri Color]]></attr_14k_metal_available>
+		<attr_18k_regular><![CDATA[6075]]></attr_18k_regular>
+		<attr_18k_metal_available><![CDATA[White Gold, Tri Color]]></attr_18k_metal_available>
+		<attr_platinum_regular><![CDATA[6845]]></attr_platinum_regular>
+		<attr_whitegold_platinum_round_default_img><![CDATA[wedding-bands/6986l/shapes/round/6986l-whitegold_platinum_round_default.jpg]]></attr_whitegold_platinum_round_default_img>
+		<attr_whitegold_platinum_round_img><![CDATA[]]></attr_whitegold_platinum_round_img>
+		<attr_rosegold_round_default_img><![CDATA[]]></attr_rosegold_round_default_img>
+		<attr_rosegold_round_img><![CDATA[]]></attr_rosegold_round_img>
+		<attr_yellowgold_round_default_img><![CDATA[]]></attr_yellowgold_round_default_img>
+		<attr_yellowgold_round_img><![CDATA[]]></attr_yellowgold_round_img>
+		<attr_whitegold_yellow_round_default_img><![CDATA[]]></attr_whitegold_yellow_round_default_img>
+		<attr_whitegold_yellow_round_img><![CDATA[]]></attr_whitegold_yellow_round_img>
+		<attr_whitegold_rose_round_default_img><![CDATA[]]></attr_whitegold_rose_round_default_img>
+		<attr_whitegold_rose_round_img><![CDATA[]]></attr_whitegold_rose_round_img>
+		<attr_tricolor_round_default_img><![CDATA[wedding-bands/6986l/shapes/round/6986l-tricolor_round_default.jpg]]></attr_tricolor_round_default_img>
+		<attr_tricolor_round_img><![CDATA[]]></attr_tricolor_round_img>
+	</node>
+	<node>
+		<prod_sku><![CDATA[1055]]></prod_sku>
+		<prod_live_url><![CDATA[[prod_name}-[prod_sku]]]></prod_live_url>
+		<prod_name><![CDATA[Wavy Wedding Band]]></prod_name>
+		<prod_long_desc><![CDATA[This beautiful wavy wedding band features 2 channel set diamonds with a unique wavy design and pave set diamonds for extra sparkle.]]></prod_long_desc>
+		<prod_type><![CDATA[Wedding Bands]]></prod_type>
+		<prod_subcategory><![CDATA[Diamond Women,White Gold Women,Two Tone Women,Tri Color Women,Platinum Women,Women Wedding Band]]></prod_subcategory>
+		<prodmeta_section><![CDATA[Womens]]></prodmeta_section>
+		<prodmeta_ship_days><![CDATA[20]]></prodmeta_ship_days>
+		<prodmeta_metal_weight><![CDATA[10 Grams]]></prodmeta_metal_weight>
+		<prodmeta_side_diamonds_count><![CDATA[18]]></prodmeta_side_diamonds_count>
+		<prodmeta_side_diamonds_ctw><![CDATA[0.61ct.]]></prodmeta_side_diamonds_ctw>
+		<prodmeta_side_diamonds_color_clarity><![CDATA[F/G - VS/SI1]]></prodmeta_side_diamonds_color_clarity>
+		<prodmeta_side_diamonds1_count><![CDATA[]]></prodmeta_side_diamonds1_count>
+		<attr_14k_regular><![CDATA[3740]]></attr_14k_regular>
+		<attr_14k_metal_available><![CDATA[White Gold, WRG, WYG, Tri Color]]></attr_14k_metal_available>
+		<attr_18k_regular><![CDATA[4580]]></attr_18k_regular>
+		<attr_18k_metal_available><![CDATA[White Gold, WRG, WYG, Tri Color]]></attr_18k_metal_available>
+		<attr_platinum_regular><![CDATA[5345]]></attr_platinum_regular>
+		<attr_whitegold_platinum_round_default_img><![CDATA[wedding-bands/7001/shapes/round/7001-whitegold_platinum_round_default.jpg]]></attr_whitegold_platinum_round_default_img>
+		<attr_whitegold_platinum_round_img><![CDATA[]]></attr_whitegold_platinum_round_img>
+		<attr_rosegold_round_default_img><![CDATA[]]></attr_rosegold_round_default_img>
+		<attr_rosegold_round_img><![CDATA[]]></attr_rosegold_round_img>
+		<attr_yellowgold_round_default_img><![CDATA[]]></attr_yellowgold_round_default_img>
+		<attr_yellowgold_round_img><![CDATA[]]></attr_yellowgold_round_img>
+		<attr_whitegold_yellow_round_default_img><![CDATA[wedding-bands/7001/shapes/round/7001-whitegold_yellow_round_default.jpg]]></attr_whitegold_yellow_round_default_img>
+		<attr_whitegold_yellow_round_img><![CDATA[]]></attr_whitegold_yellow_round_img>
+		<attr_whitegold_rose_round_default_img><![CDATA[wedding-bands/7001/shapes/round/7001-whitegold_rose_round_default.jpg]]></attr_whitegold_rose_round_default_img>
+		<attr_whitegold_rose_round_img><![CDATA[]]></attr_whitegold_rose_round_img>
+		<attr_tricolor_round_default_img><![CDATA[wedding-bands/7001/shapes/round/7001-tricolor_round_default.jpg]]></attr_tricolor_round_default_img>
+		<attr_tricolor_round_img><![CDATA[]]></attr_tricolor_round_img>
+	</node>
+	<node>
+		<prod_sku><![CDATA[1056]]></prod_sku>
+		<prod_live_url><![CDATA[[prod_name}-[prod_sku]]]></prod_live_url>
+		<prod_name><![CDATA[Unique Vintage Diamond Wedding Band]]></prod_name>
+		<prod_long_desc><![CDATA[A unique vintage diamond wedding band featuring a round center with a crossing section pave set with diamonds and two larger channel set diamond accents. The outer ridges are also adorned with diamonds along with a milgrain finish for a touch of elegance.]]></prod_long_desc>
+		<prod_type><![CDATA[Wedding Bands]]></prod_type>
+		<prod_subcategory><![CDATA[Diamond Women,White Gold Women,Tri Color Women,Platinum Women,Women Wedding Band]]></prod_subcategory>
+		<prodmeta_section><![CDATA[Womens]]></prodmeta_section>
+		<prodmeta_ship_days><![CDATA[21]]></prodmeta_ship_days>
+		<prodmeta_metal_weight><![CDATA[9.7 Grams]]></prodmeta_metal_weight>
+		<prodmeta_side_diamonds_count><![CDATA[63]]></prodmeta_side_diamonds_count>
+		<prodmeta_side_diamonds_ctw><![CDATA[0.93ct.]]></prodmeta_side_diamonds_ctw>
+		<prodmeta_side_diamonds_color_clarity><![CDATA[F/G - VS/SI1]]></prodmeta_side_diamonds_color_clarity>
+		<prodmeta_side_diamonds1_count><![CDATA[]]></prodmeta_side_diamonds1_count>
+		<attr_14k_regular><![CDATA[5865]]></attr_14k_regular>
+		<attr_14k_metal_available><![CDATA[White Gold, Tri Color]]></attr_14k_metal_available>
+		<attr_18k_regular><![CDATA[6680]]></attr_18k_regular>
+		<attr_18k_metal_available><![CDATA[White Gold, Tri Color]]></attr_18k_metal_available>
+		<attr_platinum_regular><![CDATA[7420]]></attr_platinum_regular>
+		<attr_whitegold_platinum_round_default_img><![CDATA[wedding-bands/7014l/shapes/round/7014l-whitegold_platinum_round_default.jpg]]></attr_whitegold_platinum_round_default_img>
+		<attr_whitegold_platinum_round_img><![CDATA[]]></attr_whitegold_platinum_round_img>
+		<attr_rosegold_round_default_img><![CDATA[]]></attr_rosegold_round_default_img>
+		<attr_rosegold_round_img><![CDATA[]]></attr_rosegold_round_img>
+		<attr_yellowgold_round_default_img><![CDATA[]]></attr_yellowgold_round_default_img>
+		<attr_yellowgold_round_img><![CDATA[]]></attr_yellowgold_round_img>
+		<attr_whitegold_yellow_round_default_img><![CDATA[]]></attr_whitegold_yellow_round_default_img>
+		<attr_whitegold_yellow_round_img><![CDATA[]]></attr_whitegold_yellow_round_img>
+		<attr_whitegold_rose_round_default_img><![CDATA[]]></attr_whitegold_rose_round_default_img>
+		<attr_whitegold_rose_round_img><![CDATA[]]></attr_whitegold_rose_round_img>
+		<attr_tricolor_round_default_img><![CDATA[wedding-bands/7014l/shapes/round/7014l-tricolor_round_default.jpg]]></attr_tricolor_round_default_img>
+		<attr_tricolor_round_img><![CDATA[]]></attr_tricolor_round_img>
+	</node>
+	<node>
+		<prod_sku><![CDATA[1057]]></prod_sku>
+		<prod_live_url><![CDATA[[prod_name}-[prod_sku]]]></prod_live_url>
+		<prod_name><![CDATA[Antique Wedding Band]]></prod_name>
+		<prod_long_desc><![CDATA[This antique wedding band features a center section adorned with pave and channel set diamonds while pave set diamonds rest on the outer ridges of the shank with a milgrain finish.]]></prod_long_desc>
+		<prod_type><![CDATA[Wedding Bands]]></prod_type>
+		<prod_subcategory><![CDATA[Diamond Women,White Gold Women, Platinum Women,Two Tone Women,Women Wedding Band]]></prod_subcategory>
+		<prodmeta_section><![CDATA[Womens]]></prodmeta_section>
+		<prodmeta_ship_days><![CDATA[22]]></prodmeta_ship_days>
+		<prodmeta_metal_weight><![CDATA[11.8 Grams]]></prodmeta_metal_weight>
+		<prodmeta_side_diamonds_count><![CDATA[85]]></prodmeta_side_diamonds_count>
+		<prodmeta_side_diamonds_ctw><![CDATA[0.98ct.]]></prodmeta_side_diamonds_ctw>
+		<prodmeta_side_diamonds_color_clarity><![CDATA[F/G - VS/SI1]]></prodmeta_side_diamonds_color_clarity>
+		<prodmeta_side_diamonds1_count><![CDATA[]]></prodmeta_side_diamonds1_count>
+		<attr_14k_regular><![CDATA[5975]]></attr_14k_regular>
+		<attr_14k_metal_available><![CDATA[White Gold, WRG]]></attr_14k_metal_available>
+		<attr_18k_regular><![CDATA[6970]]></attr_18k_regular>
+		<attr_18k_metal_available><![CDATA[White Gold, WRG]]></attr_18k_metal_available>
+		<attr_platinum_regular><![CDATA[7865]]></attr_platinum_regular>
+		<attr_whitegold_platinum_round_default_img><![CDATA[wedding-bands/7016l/shapes/round/7016l-whitegold_platinum_round_default.jpg]]></attr_whitegold_platinum_round_default_img>
+		<attr_whitegold_platinum_round_img><![CDATA[]]></attr_whitegold_platinum_round_img>
+		<attr_rosegold_round_default_img><![CDATA[]]></attr_rosegold_round_default_img>
+		<attr_rosegold_round_img><![CDATA[]]></attr_rosegold_round_img>
+		<attr_yellowgold_round_default_img><![CDATA[]]></attr_yellowgold_round_default_img>
+		<attr_yellowgold_round_img><![CDATA[]]></attr_yellowgold_round_img>
+		<attr_whitegold_yellow_round_default_img><![CDATA[]]></attr_whitegold_yellow_round_default_img>
+		<attr_whitegold_yellow_round_img><![CDATA[]]></attr_whitegold_yellow_round_img>
+		<attr_whitegold_rose_round_default_img><![CDATA[wedding-bands/7016l/shapes/round/7016l-whitegold_rose_round_default.jpg]]></attr_whitegold_rose_round_default_img>
+		<attr_whitegold_rose_round_img><![CDATA[]]></attr_whitegold_rose_round_img>
+		<attr_tricolor_round_default_img><![CDATA[]]></attr_tricolor_round_default_img>
+		<attr_tricolor_round_img><![CDATA[]]></attr_tricolor_round_img>
+	</node>
+</data>
